@@ -1,185 +1,341 @@
-# Africa Public Health Intelligence & Early-Warning Prototype
+Africa Public Health Intelligence & Early-Warning System
 
-**Portfolio project:** Africa Public Health Intelligence & Early-Warning System  
-**Positioning:** Public-health surveillance + risk analytics + anomaly detection + forecasting + climate context + event-based signals + explainable decision support.
+An end-to-end public-health analytics platform for disease surveillance, anomaly detection, baseline forecasting, climate context, and explainable risk prioritization across Africa.
 
-> This is a portfolio/research prototype inspired by the kinds of capabilities used in public-health intelligence and preparedness systems. It is **not** a validated outbreak prediction system and must not be used for clinical or emergency decisions.
+""CI" (https://github.com/evanskips2727-del/Africa-Public-Health-Intelligence-/actions/workflows/ci.yml/badge.svg)" (https://github.com/evanskips2727-del/Africa-Public-Health-Intelligence-/actions/workflows/ci.yml)
 
-## Why this project exists
+Live Dashboard: "Explore the interactive application" (https://public-health-early-warning.streamlit.app/)
 
-The goal is to demonstrate that a data practitioner can move beyond a static health dashboard and build an end-to-end intelligence workflow:
+Repository: "View the source code" (https://github.com/evanskips2727-del/Africa-Public-Health-Intelligence-)
 
-**Data ingestion → validation → surveillance analytics → anomaly detection → forecast → contextual risk scoring → event signals → decision-oriented dashboard**
+«Research and portfolio prototype: This application demonstrates public-health intelligence and analytical engineering techniques. Its risk scores and forecasts have not been validated for operational epidemiological use. The dashboard is not an official WHO system and must not be used as the sole basis for clinical, public-health emergency, or resource-allocation decisions.»
 
-The design is intentionally aligned with public-health intelligence concepts: early signal detection, risk assessment, situational awareness, evidence synthesis, and explainable prioritization.
+---
 
-## Data sources
+Overview
 
-The download pipeline uses reproducible public sources:
+Public-health teams need to combine disease surveillance, historical trends, immunization indicators, environmental context, and outbreak reports to understand emerging risks.
 
-1. **WHO Global Health Observatory data via Our World in Data**
-   - Malaria incidence
-   - Reported measles cases
-   - Reported cholera cases
-   - Measles vaccination coverage
-2. **WHO Disease Outbreak News API**
-   - Event-based outbreak/public-health signals
-3. **NASA POWER**
-   - Temperature and precipitation context for selected African country representative points
-4. **World Bank Indicators API**
-   - Population denominator
+This project demonstrates an end-to-end analytical workflow that integrates these information sources into a structured risk register and interactive dashboard.
 
-The OWID mirrors used in the project document WHO as the original health-data provider. Always inspect the source metadata before publishing a new analysis.
+Rather than presenting isolated charts, the system combines multiple signals to help analysts investigate country–disease combinations that may warrant further review.
 
-## Core analytical outputs
+Key capabilities
 
-### 1. Surveillance trend
-Annual disease burden and year-over-year change.
+- Disease surveillance analytics: Examine historical disease observations and year-over-year changes.
+- Robust anomaly detection: Identify unusual observations using rolling median and median absolute deviation (MAD).
+- Baseline forecasting: Generate transparent one-year-ahead estimates using recent historical observations.
+- Explainable risk scoring: Combine available surveillance, trend, forecast, vaccination, climate, and outbreak-event signals.
+- Event-based intelligence: Extract structured signals from WHO Disease Outbreak News.
+- Climate context: Incorporate temperature and precipitation information from NASA POWER.
+- Data-quality and freshness checks: Identify records that require closer inspection because of missing, outdated, or questionable evidence.
+- Interactive dashboard: Explore processed results through a Streamlit application.
 
-### 2. Anomaly detection
-Rolling median/MAD-based anomaly score:
+Live Application
 
-- robust to extreme values
-- interpretable
-- less sensitive to outliers than ordinary z-scores
+"Launch the Public Health Intelligence Dashboard" (https://public-health-early-warning.streamlit.app/)
 
-### 3. Forecast
-A transparent one-year-ahead baseline uses the median of the last three annual observations. It requires six consecutive annual observations and a latest observation no more than two years old. This is a screening baseline, not a validated epidemiological forecasting model. The project treats forecasting as a **signal**, not a certainty.
+The dashboard provides an interactive interface for exploring the project's analytical outputs.
 
-### 4. Contextual risk score
-The prototype combines:
+The application is supported by a Python data pipeline, processed CSV datasets, and a risk-scoring engine.
 
-- recent disease anomaly
-- upward trend
-- forecast direction
-- vaccination gap
-- climate anomaly
-- recent outbreak/news signal
+Technical Architecture
 
-The score is deliberately interpretable so an analyst can explain why a country-disease pair was prioritized.
+Public Data Sources
+        |
+        v
+Data Ingestion
+        |
+        v
+Validation and Standardization
+        |
+        +-------------------+
+        |                   |
+        v                   v
+Disease Surveillance    WHO Outbreak Events
+        |                   |
+        v                   v
+Trend Analysis          Event Signal Extraction
+        |
+        +-------------------+
+        |                   |
+        v                   v
+Anomaly Detection     Forecast Baseline
+        |
+        v
+Climate and Vaccination Context
+        |
+        v
+Explainable Risk-Scoring Engine
+        |
+        v
+Processed Analytical Tables
+        |
+        v
+Streamlit Dashboard
 
-### 5. Event-based intelligence
-WHO Disease Outbreak News records are converted into structured signals using title/text keyword extraction.
+Technology stack
 
-## Risk interpretation
+Area| Technologies
+Programming| Python
+Data manipulation| Pandas, NumPy
+Statistical analysis| Median/MAD-based anomaly detection, time-series baselines
+Machine learning and analytical utilities| Scikit-learn, Statsmodels
+Data acquisition| Requests, public data APIs
+Data storage| CSV, Parquet-compatible data tooling
+Visualization and dashboard| Streamlit, Plotly
+Automated testing| Pytest
+Continuous integration| GitHub Actions
+Development environment| Google Colab, local Python environments
 
-| Score | Tier | Interpretation |
-|---:|---|---|
-| 0–24 | Low | No strong combined signal |
-| 25–49 | Moderate | One or more contextual signals |
-| 50–74 | High | Multiple converging signals |
-| 75–100 | Critical | Strong convergence; requires human review |
+Data Sources
 
-**Important:** The score is a portfolio prototype, not a WHO/AFRO risk classification.
+The pipeline uses public data sources to construct its analytical datasets.
 
-## Project architecture
+Source| Role in the project
+WHO health indicators distributed through Our World in Data| Malaria incidence, reported measles and cholera cases, and measles vaccination coverage
+WHO Disease Outbreak News API| Outbreak and public-health event signals
+NASA POWER| Temperature and precipitation context for selected African country representative points
+World Bank Indicators API| Population data used as a denominator where applicable
 
-```text
-                    ┌──────────────────────┐
-                    │ WHO / OWID datasets  │
-                    └──────────┬───────────┘
-                               │
-                    ┌──────────▼───────────┐
-                    │ Data ingestion layer │
-                    │ validation + schema  │
-                    └──────────┬───────────┘
-                               │
-          ┌────────────────────┼─────────────────────┐
-          │                    │                     │
- ┌────────▼────────┐  ┌────────▼────────┐  ┌────────▼─────────┐
- │ Disease trends  │  │ WHO event       │  │ Climate context  │
- │ + anomalies     │  │ intelligence    │  │ NASA POWER       │
- └────────┬────────┘  └────────┬────────┘  └────────┬─────────┘
-          │                    │                     │
-          └────────────────────┼─────────────────────┘
-                               │
-                    ┌──────────▼───────────┐
-                    │ Explainable risk     │
-                    │ scoring engine       │
-                    └──────────┬───────────┘
-                               │
-                    ┌──────────▼───────────┐
-                    │ Streamlit intelligence│
-                    │ dashboard             │
-                    └──────────────────────┘
-```
+Data provenance matters: Our World in Data distributes health indicators whose original source may be WHO. The original provider, indicator definition, reporting period, units, and available coverage should be checked before drawing conclusions.
 
-## Run locally
+Publicly reported observations may be incomplete, revised, delayed, or inconsistent across countries and years. An absence of reported cases must not automatically be interpreted as an absence of disease.
 
-### 1. Install
+Analytical Methodology
 
-```bash
+1. Disease Surveillance and Trend Analysis
+
+The pipeline organizes disease observations into analytical tables that support historical comparisons and country–disease assessment.
+
+The analysis includes annual observations and year-over-year changes where the underlying data supports these calculations.
+
+2. Robust Anomaly Detection
+
+The risk engine uses a rolling median and median absolute deviation to assess unusual observations.
+
+Compared with a conventional mean-and-standard-deviation approach, this method can be less sensitive to extreme observations.
+
+An anomaly is a statistical signal that deserves investigation. It does not, by itself, establish that an outbreak is occurring.
+
+3. Baseline Forecasting
+
+The forecasting component uses a transparent baseline based on the median of the last three annual observations.
+
+The baseline requires six consecutive annual observations and a latest observation no more than two years old.
+
+The forecast is intended for exploratory screening rather than validated epidemiological prediction. It does not establish causality or account for every factor that can influence disease transmission.
+
+4. Explainable Risk Scoring
+
+The prototype combines six analytical components:
+
+Component| Weight
+Disease anomaly| 30%
+Disease trend| 20%
+Forecast direction| 15%
+Vaccination gap| 15%
+Climate signal| 10%
+Outbreak-event signal| 10%
+
+The implementation excludes unavailable components and renormalizes the weights of the remaining components.
+
+These weights are exploratory design choices, not empirically calibrated or epidemiologically validated parameters. The resulting score is a prioritization aid for human review, not a probability of an outbreak.
+
+5. Risk Tiers
+
+The prototype translates the combined score into four categories.
+
+Score| Tier| Interpretation
+0–24| Low| No strong combined signal under the prototype's scoring method
+25–49| Moderate| Some signals warrant monitoring or further inspection
+50–74| High| Multiple signals suggest closer analytical review
+75–100| Critical| Strong combined signal requiring careful human review
+
+These thresholds are project-defined and are not official WHO or WHO/AFRO classifications.
+
+6. Event-Based Intelligence
+
+The pipeline processes WHO Disease Outbreak News records and extracts structured signals using title and text keyword matching.
+
+Keyword-based extraction is a lightweight method for organizing event information. It can miss relevant reports or flag items that need contextual interpretation.
+
+7. Data Freshness and Quality
+
+The analytical workflow includes checks for surveillance-data freshness and missing or questionable evidence.
+
+Freshness categories help users distinguish recent observations from older information requiring review.
+
+A recent observation is not necessarily complete or reliable, and an older observation is not automatically invalid. Interpretation depends on the reporting process, disease, and source.
+
+Project Outputs
+
+The pipeline produces structured datasets under "data/processed/":
+
+File| Purpose
+"disease_surveillance.csv"| Processed disease surveillance observations
+"forecasts.csv"| Baseline forecast outputs
+"climate_monthly_clean.csv"| Cleaned monthly climate observations
+"climate_anomalies.csv"| Derived climate anomaly information
+"event_signals.csv"| Structured outbreak-event signals
+"risk_register.csv"| Combined country–disease risk assessments
+
+These tables provide a reproducible analytical foundation for the dashboard and further investigation.
+
+Repository Structure
+
+Africa-Public-Health-Intelligence-/
+├── .github/
+│   └── workflows/
+│       └── ci.yml
+├── config/
+│   └── countries.csv
+├── data/
+│   ├── raw/
+│   └── processed/
+├── docs/
+│   └── PORTFOLIO_CASE_STUDY.md
+├── scripts/
+│   └── download_data.py
+├── src/
+│   ├── pipeline.py
+│   └── risk_engine.py
+├── tests/
+│   └── test_risk.py
+├── app.py
+├── requirements.txt
+└── README.md
+
+The repository also contains a project notebook for exploratory development.
+
+Getting Started
+
+Prerequisites
+
+- Python 3.11 or a compatible Python environment.
+- Git, if cloning the repository.
+- An internet connection for downloading source data.
+- The dependencies listed in "requirements.txt".
+
+1. Clone the repository
+
+git clone https://github.com/evanskips2727-del/Africa-Public-Health-Intelligence-.git
+cd Africa-Public-Health-Intelligence-
+
+2. Create a virtual environment
+
 python -m venv .venv
+
+Activate it on Linux or macOS:
+
 source .venv/bin/activate
+
+On Windows:
+
+.venv\Scripts\activate
+
+3. Install dependencies
+
+python -m pip install --upgrade pip
 pip install -r requirements.txt
-```
+pip install pytest
 
-On Termux:
+4. Download source data
 
-```bash
-pkg update
-pkg install python
-pip install -r requirements.txt
-```
-
-### 2. Download data
-
-```bash
 python scripts/download_data.py
-```
 
-This creates files under `data/raw/`.
+This step retrieves the project's source data and stores downloaded files under "data/raw/", subject to source availability and network access.
 
-### 3. Build analytical tables
+5. Build the analytical tables
 
-```bash
 python -m src.pipeline
-```
 
-### 4. Launch
+The pipeline processes the available data and generates analytical outputs under "data/processed/".
 
-```bash
+6. Run the automated tests
+
+python -m pytest -q
+
+The test suite checks selected risk-engine functionality. Passing tests do not constitute validation of epidemiological accuracy or operational readiness.
+
+7. Launch the dashboard
+
 streamlit run app.py
-```
 
-If Streamlit is too heavy for the phone, run the pipeline first and use the generated CSVs for a lightweight portfolio notebook/dashboard. The analytical core is independent of Streamlit.
+Streamlit will display a local address where the dashboard can be opened in a browser.
 
-## Suggested portfolio title
+Execution note: Run the download and pipeline steps before launching the dashboard if the required processed datasets are not already present. Exact outputs depend on source availability and pipeline execution.
 
-**Africa Public Health Intelligence & Early-Warning System**
+Continuous Integration
 
-Alternative:
+GitHub Actions runs the project's automated tests when changes are pushed to the configured branch or submitted through a pull request.
 
-**Public Health Threat Intelligence & Outbreak Early-Warning Prototype**
+The workflow installs Python dependencies, installs Pytest, and executes the test suite.
 
-## Strong portfolio claims you can make
+Current CI status: "View workflow runs" (https://github.com/evanskips2727-del/Africa-Public-Health-Intelligence-/actions).
 
-- Built an end-to-end public-health intelligence pipeline integrating WHO disease surveillance, WHO outbreak signals, climate context and immunization indicators.
-- Implemented robust anomaly detection and transparent multi-factor risk scoring to prioritize country-disease signals for human review.
-- Added baseline time-series forecasting and event-based intelligence extraction to move from retrospective reporting toward early-warning analytics.
-- Designed an explainable dashboard showing the evidence behind each risk tier rather than presenting an opaque model output.
+A successful CI run indicates that the configured tests passed in that environment. It does not establish that the risk scores or forecasts are epidemiologically valid.
 
-## Claims you should NOT make
+Portfolio Highlights
 
-Do not claim:
+This project demonstrates practical experience in:
 
-- WHO endorsement
-- PDX replication
-- operational outbreak prediction
-- validated epidemiological forecasting
-- causal climate-disease relationships
-- deployment in a ministry/WHO system
-- clinical decision support
+- Building an end-to-end Python data pipeline.
+- Integrating multiple public data sources.
+- Cleaning, standardizing, and validating analytical datasets.
+- Applying robust statistical methods to surveillance data.
+- Designing transparent risk-scoring logic.
+- Combining structured datasets and event-based information.
+- Producing dashboard-ready analytical tables.
+- Developing an interactive Streamlit application.
+- Automating tests with GitHub Actions.
+- Documenting analytical assumptions, limitations, and reproducible workflows.
 
-## Next-level extensions
+The implementation connects data engineering, statistical analysis, and business-oriented presentation in a single portfolio project.
 
-1. Replace annual surveillance with weekly IDSR/EWARS data.
-2. Add subnational geospatial data.
-3. Add health-system readiness indicators.
-4. Add IHR/JEE preparedness indicators.
-5. Add laboratory/genomic signals.
-6. Add cross-border transmission/network features.
-7. Add retrieval-augmented AI explanations with source citations.
-8. Add model backtesting and calibration.
-9. Add PostgreSQL/PostGIS + dbt.
-10. Add automated scheduled ingestion and data-quality monitoring.
+Limitations and Responsible Use
+
+The project is an exploratory portfolio prototype, not an operational public-health surveillance service.
+
+Important limitations include:
+
+- Public data may be incomplete, delayed, revised, or inconsistent.
+- Annual observations may be insufficient for timely outbreak detection.
+- Forecasts use a simple historical baseline and have not been established as accurate predictive models.
+- Risk-score weights and thresholds have not been calibrated against independently verified outbreak outcomes.
+- Climate signals do not establish causal relationships with disease incidence.
+- Keyword-based event extraction can produce missed signals or false positives.
+- Country-level indicators can conceal important subnational differences.
+
+The system should be interpreted as a demonstration of analytical methods and explainable prioritization, with human review required for interpretation.
+
+It is not endorsed by WHO and must not be treated as an official disease alert, clinical decision-support tool, or substitute for established public-health reporting and response procedures.
+
+Future Development
+
+Potential extensions include:
+
+1. Integrating higher-frequency surveillance data where reliable public access is available.
+2. Adding subnational geospatial analysis.
+3. Incorporating health-system readiness and preparedness indicators.
+4. Evaluating forecasts through temporal backtesting and calibration.
+5. Measuring anomaly-detection performance against independently verified events.
+6. Adding data-quality monitoring and scheduled pipeline execution.
+7. Expanding database support for larger analytical workloads.
+8. Improving event extraction and evidence traceability.
+9. Adding automated monitoring of data-source freshness.
+10. Evaluating the risk-scoring approach with domain experts and documented validation criteria.
+
+Author
+
+Evans Kiplangat
+
+Data Analytics | Data Engineering | Applied Statistics
+
+- "GitHub" (https://github.com/evans25575)
+- "LinkedIn" (https://linkedin.com/in/evans-kiplangat-375646179)
+- "Live Project Dashboard" (https://public-health-early-warning.streamlit.app/)
+
+---
+
+Built as a portfolio project demonstrating reproducible data engineering, statistical analysis, explainable risk assessment, and interactive public-health analytics.
