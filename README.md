@@ -32,11 +32,11 @@ Every score comes with the reasons behind it, so an analyst can see *why* a pair
 
 | Priority risk register | Risk landscape |
 |---|---|
-| ![Risk register](docs/images/risk-register.png) | ![Risk landscape](docs/images/risk-landscape.png) |
+| ![Risk register](docs/risk-register.png) | ![Risk landscape](docs/risk-landscape.png) |
 
 | Surveillance trend | Explainable interpretation |
 |---|---|
-| ![Trend](docs/images/trend.png) | ![Interpretation](docs/images/interpretation.png) |
+| ![Trend](docs/trend.png) | ![Interpretation](docs/interpretation.png) |
 
 ## What it does
 
