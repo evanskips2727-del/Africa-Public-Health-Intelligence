@@ -1,0 +1,2178 @@
+country,iso3,year,value,disease,measles_vax_pct
+Burkina Faso,BFA,2000,597.17,Malaria,48.0
+Burkina Faso,BFA,2001,597.54,Malaria,63.0
+Burkina Faso,BFA,2002,592.47,Malaria,64.0
+Burkina Faso,BFA,2003,582.14,Malaria,76.0
+Burkina Faso,BFA,2004,559.01,Malaria,78.0
+Burkina Faso,BFA,2005,528.52,Malaria,84.0
+Burkina Faso,BFA,2006,511.16,Malaria,88.0
+Burkina Faso,BFA,2007,519.27,Malaria,94.0
+Burkina Faso,BFA,2008,549.65,Malaria,94.0
+Burkina Faso,BFA,2009,568.59,Malaria,94.0
+Burkina Faso,BFA,2010,568.37,Malaria,92.0
+Burkina Faso,BFA,2011,554.68,Malaria,89.0
+Burkina Faso,BFA,2012,533.39,Malaria,87.0
+Burkina Faso,BFA,2013,487.14,Malaria,82.0
+Burkina Faso,BFA,2014,446.14,Malaria,88.0
+Burkina Faso,BFA,2015,417.95,Malaria,88.0
+Burkina Faso,BFA,2016,373.17,Malaria,88.0
+Burkina Faso,BFA,2017,356.56,Malaria,88.0
+Burkina Faso,BFA,2018,356.23,Malaria,88.0
+Burkina Faso,BFA,2019,356.49,Malaria,88.0
+Burkina Faso,BFA,2020,378.17,Malaria,88.0
+Burkina Faso,BFA,2021,378.58,Malaria,88.0
+Burkina Faso,BFA,2022,356.27,Malaria,88.0
+Burkina Faso,BFA,2023,353.49,Malaria,88.0
+Burkina Faso,BFA,2024,353.49,Malaria,88.0
+Cameroon,CMR,2000,394.85,Malaria,49.0
+Cameroon,CMR,2001,426.29,Malaria,51.0
+Cameroon,CMR,2002,437.17,Malaria,53.0
+Cameroon,CMR,2003,441.4,Malaria,61.0
+Cameroon,CMR,2004,438.73,Malaria,64.0
+Cameroon,CMR,2005,435.58,Malaria,68.0
+Cameroon,CMR,2006,425.95,Malaria,73.0
+Cameroon,CMR,2007,409.95,Malaria,74.0
+Cameroon,CMR,2008,391.63,Malaria,80.0
+Cameroon,CMR,2009,351.15,Malaria,74.0
+Cameroon,CMR,2010,295.67,Malaria,79.0
+Cameroon,CMR,2011,266.6,Malaria,76.0
+Cameroon,CMR,2012,261.14,Malaria,74.0
+Cameroon,CMR,2013,271.1,Malaria,71.0
+Cameroon,CMR,2014,272.51,Malaria,71.0
+Cameroon,CMR,2015,271.06,Malaria,71.0
+Cameroon,CMR,2016,268.53,Malaria,72.0
+Cameroon,CMR,2017,258.98,Malaria,67.0
+Cameroon,CMR,2018,248.98,Malaria,61.0
+Cameroon,CMR,2019,243.44,Malaria,61.0
+Cameroon,CMR,2020,264.81,Malaria,63.0
+Cameroon,CMR,2021,270.65,Malaria,65.0
+Cameroon,CMR,2022,265.03,Malaria,68.0
+Cameroon,CMR,2023,259.08,Malaria,71.0
+Cameroon,CMR,2024,260.46,Malaria,71.0
+Chad,TCD,2000,272.13,Malaria,28.0
+Chad,TCD,2001,276.62,Malaria,26.0
+Chad,TCD,2002,243.18,Malaria,25.0
+Chad,TCD,2003,240.34,Malaria,23.0
+Chad,TCD,2004,237.39,Malaria,16.0
+Chad,TCD,2005,241.27,Malaria,27.0
+Chad,TCD,2006,242.2,Malaria,39.0
+Chad,TCD,2007,236.14,Malaria,31.0
+Chad,TCD,2008,237.86,Malaria,27.0
+Chad,TCD,2009,245.1,Malaria,36.0
+Chad,TCD,2010,244.66,Malaria,46.0
+Chad,TCD,2011,228.36,Malaria,54.0
+Chad,TCD,2012,215.47,Malaria,63.0
+Chad,TCD,2013,208.02,Malaria,57.0
+Chad,TCD,2014,212.01,Malaria,45.0
+Chad,TCD,2015,215.03,Malaria,46.0
+Chad,TCD,2016,214.3,Malaria,37.0
+Chad,TCD,2017,217.09,Malaria,37.0
+Chad,TCD,2018,224.99,Malaria,41.0
+Chad,TCD,2019,217.22,Malaria,40.0
+Chad,TCD,2020,208.74,Malaria,45.0
+Chad,TCD,2021,206.65,Malaria,53.0
+Chad,TCD,2022,209.09,Malaria,54.0
+Chad,TCD,2023,205.12,Malaria,63.0
+Chad,TCD,2024,206.14,Malaria,66.0
+Cote d'Ivoire,CIV,2000,490.52,Malaria,68.0
+Cote d'Ivoire,CIV,2001,502.24,Malaria,71.0
+Cote d'Ivoire,CIV,2002,506.32,Malaria,71.0
+Cote d'Ivoire,CIV,2003,509.61,Malaria,70.0
+Cote d'Ivoire,CIV,2004,500.36,Malaria,78.0
+Cote d'Ivoire,CIV,2005,466.34,Malaria,84.0
+Cote d'Ivoire,CIV,2006,425.61,Malaria,73.0
+Cote d'Ivoire,CIV,2007,391.51,Malaria,67.0
+Cote d'Ivoire,CIV,2008,392.97,Malaria,63.0
+Cote d'Ivoire,CIV,2009,426.16,Malaria,67.0
+Cote d'Ivoire,CIV,2010,458.12,Malaria,64.0
+Cote d'Ivoire,CIV,2011,461.58,Malaria,49.0
+Cote d'Ivoire,CIV,2012,375.19,Malaria,74.0
+Cote d'Ivoire,CIV,2013,287.39,Malaria,70.0
+Cote d'Ivoire,CIV,2014,243.25,Malaria,59.0
+Cote d'Ivoire,CIV,2015,242.12,Malaria,67.0
+Cote d'Ivoire,CIV,2016,258.1,Malaria,73.0
+Cote d'Ivoire,CIV,2017,268.54,Malaria,70.0
+Cote d'Ivoire,CIV,2018,280.22,Malaria,74.0
+Cote d'Ivoire,CIV,2019,292.76,Malaria,71.0
+Cote d'Ivoire,CIV,2020,295.66,Malaria,63.0
+Cote d'Ivoire,CIV,2021,283.64,Malaria,65.0
+Cote d'Ivoire,CIV,2022,280.87,Malaria,62.0
+Cote d'Ivoire,CIV,2023,269.25,Malaria,70.0
+Cote d'Ivoire,CIV,2024,267.95,Malaria,75.0
+Democratic Republic of Congo,COD,2000,458.24,Malaria,26.0
+Democratic Republic of Congo,COD,2001,457.6,Malaria,34.0
+Democratic Republic of Congo,COD,2002,460.7,Malaria,41.0
+Democratic Republic of Congo,COD,2003,467.36,Malaria,48.0
+Democratic Republic of Congo,COD,2004,467.62,Malaria,57.0
+Democratic Republic of Congo,COD,2005,468.33,Malaria,61.0
+Democratic Republic of Congo,COD,2006,464.8,Malaria,63.0
+Democratic Republic of Congo,COD,2007,448.32,Malaria,64.0
+Democratic Republic of Congo,COD,2008,429.83,Malaria,64.0
+Democratic Republic of Congo,COD,2009,405.23,Malaria,65.0
+Democratic Republic of Congo,COD,2010,381.32,Malaria,66.0
+Democratic Republic of Congo,COD,2011,360.23,Malaria,66.0
+Democratic Republic of Congo,COD,2012,335.8,Malaria,69.0
+Democratic Republic of Congo,COD,2013,310.49,Malaria,68.0
+Democratic Republic of Congo,COD,2014,297.36,Malaria,69.0
+Democratic Republic of Congo,COD,2015,303.04,Malaria,65.0
+Democratic Republic of Congo,COD,2016,310.28,Malaria,63.0
+Democratic Republic of Congo,COD,2017,324.07,Malaria,65.0
+Democratic Republic of Congo,COD,2018,337.42,Malaria,64.0
+Democratic Republic of Congo,COD,2019,339.77,Malaria,65.0
+Democratic Republic of Congo,COD,2020,338.92,Malaria,62.0
+Democratic Republic of Congo,COD,2021,338.04,Malaria,55.0
+Democratic Republic of Congo,COD,2022,327.94,Malaria,56.0
+Democratic Republic of Congo,COD,2023,325.29,Malaria,52.0
+Democratic Republic of Congo,COD,2024,321.89,Malaria,55.0
+Ethiopia,ETH,2000,189.18,Malaria,28.0
+Ethiopia,ETH,2001,210.9,Malaria,29.0
+Ethiopia,ETH,2002,193.55,Malaria,32.0
+Ethiopia,ETH,2003,208.94,Malaria,33.0
+Ethiopia,ETH,2004,217.88,Malaria,35.0
+Ethiopia,ETH,2005,149.48,Malaria,40.0
+Ethiopia,ETH,2006,138.01,Malaria,44.0
+Ethiopia,ETH,2007,116.37,Malaria,49.0
+Ethiopia,ETH,2008,96.3,Malaria,54.0
+Ethiopia,ETH,2009,133.79,Malaria,59.0
+Ethiopia,ETH,2010,153.84,Malaria,64.0
+Ethiopia,ETH,2011,143.7,Malaria,68.0
+Ethiopia,ETH,2012,159.67,Malaria,62.0
+Ethiopia,ETH,2013,184.1,Malaria,55.0
+Ethiopia,ETH,2014,144.07,Malaria,54.0
+Ethiopia,ETH,2015,130.06,Malaria,56.0
+Ethiopia,ETH,2016,92.89,Malaria,57.0
+Ethiopia,ETH,2017,70.71,Malaria,59.0
+Ethiopia,ETH,2018,36.46,Malaria,54.0
+Ethiopia,ETH,2019,33.61,Malaria,56.0
+Ethiopia,ETH,2020,52.28,Malaria,57.0
+Ethiopia,ETH,2021,45.56,Malaria,60.0
+Ethiopia,ETH,2022,59.89,Malaria,62.0
+Ethiopia,ETH,2023,109.24,Malaria,68.0
+Ethiopia,ETH,2024,138.5,Malaria,72.0
+Ghana,GHA,2000,430.36,Malaria,90.0
+Ghana,GHA,2001,411.18,Malaria,78.0
+Ghana,GHA,2002,392.1,Malaria,78.0
+Ghana,GHA,2003,365.98,Malaria,80.0
+Ghana,GHA,2004,340.21,Malaria,83.0
+Ghana,GHA,2005,323.73,Malaria,83.0
+Ghana,GHA,2006,311.34,Malaria,85.0
+Ghana,GHA,2007,305.83,Malaria,95.0
+Ghana,GHA,2008,314.58,Malaria,86.0
+Ghana,GHA,2009,340.42,Malaria,93.0
+Ghana,GHA,2010,366.4,Malaria,93.0
+Ghana,GHA,2011,375.14,Malaria,91.0
+Ghana,GHA,2012,367.32,Malaria,89.0
+Ghana,GHA,2013,344.33,Malaria,89.0
+Ghana,GHA,2014,313.81,Malaria,92.0
+Ghana,GHA,2015,275.99,Malaria,89.0
+Ghana,GHA,2016,244.92,Malaria,89.0
+Ghana,GHA,2017,226.19,Malaria,95.0
+Ghana,GHA,2018,212.76,Malaria,92.0
+Ghana,GHA,2019,215.27,Malaria,92.0
+Ghana,GHA,2020,219.63,Malaria,88.0
+Ghana,GHA,2021,212.47,Malaria,94.0
+Ghana,GHA,2022,210.79,Malaria,95.0
+Ghana,GHA,2023,194.92,Malaria,90.0
+Ghana,GHA,2024,195.77,Malaria,90.0
+Guinea,GIN,2000,415.77,Malaria,42.0
+Guinea,GIN,2001,414.39,Malaria,44.0
+Guinea,GIN,2002,418.97,Malaria,46.0
+Guinea,GIN,2003,425.18,Malaria,48.0
+Guinea,GIN,2004,425.36,Malaria,50.0
+Guinea,GIN,2005,420.24,Malaria,51.0
+Guinea,GIN,2006,404.99,Malaria,51.0
+Guinea,GIN,2007,384.49,Malaria,57.0
+Guinea,GIN,2008,378.78,Malaria,55.0
+Guinea,GIN,2009,393.8,Malaria,53.0
+Guinea,GIN,2010,415.74,Malaria,58.0
+Guinea,GIN,2011,428.78,Malaria,62.0
+Guinea,GIN,2012,431.75,Malaria,58.0
+Guinea,GIN,2013,413.73,Malaria,55.0
+Guinea,GIN,2014,396.69,Malaria,51.0
+Guinea,GIN,2015,384.39,Malaria,47.0
+Guinea,GIN,2016,366.52,Malaria,48.0
+Guinea,GIN,2017,358.48,Malaria,48.0
+Guinea,GIN,2018,350.28,Malaria,49.0
+Guinea,GIN,2019,321.2,Malaria,50.0
+Guinea,GIN,2020,304.94,Malaria,50.0
+Guinea,GIN,2021,294.45,Malaria,51.0
+Guinea,GIN,2022,285.7,Malaria,51.0
+Guinea,GIN,2023,285.5,Malaria,52.0
+Guinea,GIN,2024,286.08,Malaria,60.0
+Kenya,KEN,2000,220.26,Malaria,78.0
+Kenya,KEN,2001,243.23,Malaria,77.0
+Kenya,KEN,2002,227.55,Malaria,78.0
+Kenya,KEN,2003,220.14,Malaria,72.0
+Kenya,KEN,2004,184.42,Malaria,73.0
+Kenya,KEN,2005,138.92,Malaria,69.0
+Kenya,KEN,2006,125.53,Malaria,77.0
+Kenya,KEN,2007,94.84,Malaria,80.0
+Kenya,KEN,2008,79.78,Malaria,90.0
+Kenya,KEN,2009,77.6,Malaria,88.0
+Kenya,KEN,2010,80.27,Malaria,86.0
+Kenya,KEN,2011,82.58,Malaria,87.0
+Kenya,KEN,2012,84.23,Malaria,93.0
+Kenya,KEN,2013,85.44,Malaria,94.0
+Kenya,KEN,2014,84.43,Malaria,95.0
+Kenya,KEN,2015,81.8,Malaria,96.0
+Kenya,KEN,2016,77.26,Malaria,93.0
+Kenya,KEN,2017,76.85,Malaria,84.0
+Kenya,KEN,2018,74.15,Malaria,92.0
+Kenya,KEN,2019,71.67,Malaria,92.0
+Kenya,KEN,2020,85.0,Malaria,89.0
+Kenya,KEN,2021,88.69,Malaria,90.0
+Kenya,KEN,2022,82.09,Malaria,89.0
+Kenya,KEN,2023,73.77,Malaria,91.0
+Kenya,KEN,2024,74.17,Malaria,88.0
+Liberia,LBR,2000,397.08,Malaria,63.0
+Liberia,LBR,2001,406.05,Malaria,58.0
+Liberia,LBR,2002,415.53,Malaria,52.0
+Liberia,LBR,2003,423.21,Malaria,47.0
+Liberia,LBR,2004,406.13,Malaria,41.0
+Liberia,LBR,2005,403.18,Malaria,62.0
+Liberia,LBR,2006,390.79,Malaria,63.0
+Liberia,LBR,2007,372.68,Malaria,71.0
+Liberia,LBR,2008,357.06,Malaria,76.0
+Liberia,LBR,2009,342.42,Malaria,83.0
+Liberia,LBR,2010,322.14,Malaria,65.0
+Liberia,LBR,2011,299.38,Malaria,71.0
+Liberia,LBR,2012,266.12,Malaria,80.0
+Liberia,LBR,2013,260.75,Malaria,74.0
+Liberia,LBR,2014,287.7,Malaria,58.0
+Liberia,LBR,2015,318.13,Malaria,64.0
+Liberia,LBR,2016,348.7,Malaria,70.0
+Liberia,LBR,2017,356.09,Malaria,75.0
+Liberia,LBR,2018,331.58,Malaria,74.0
+Liberia,LBR,2019,300.8,Malaria,68.0
+Liberia,LBR,2020,276.93,Malaria,61.0
+Liberia,LBR,2021,216.07,Malaria,58.0
+Liberia,LBR,2022,181.79,Malaria,79.0
+Liberia,LBR,2023,179.32,Malaria,82.0
+Liberia,LBR,2024,172.34,Malaria,82.0
+Mali,MLI,2000,394.98,Malaria,49.0
+Mali,MLI,2001,396.22,Malaria,54.0
+Mali,MLI,2002,405.09,Malaria,56.0
+Mali,MLI,2003,412.36,Malaria,57.0
+Mali,MLI,2004,417.89,Malaria,63.0
+Mali,MLI,2005,419.83,Malaria,73.0
+Mali,MLI,2006,395.08,Malaria,68.0
+Mali,MLI,2007,378.67,Malaria,66.0
+Mali,MLI,2008,369.17,Malaria,71.0
+Mali,MLI,2009,364.79,Malaria,73.0
+Mali,MLI,2010,373.6,Malaria,78.0
+Mali,MLI,2011,394.18,Malaria,72.0
+Mali,MLI,2012,424.29,Malaria,67.0
+Mali,MLI,2013,441.0,Malaria,62.0
+Mali,MLI,2014,429.54,Malaria,65.0
+Mali,MLI,2015,381.71,Malaria,67.0
+Mali,MLI,2016,374.39,Malaria,70.0
+Mali,MLI,2017,376.98,Malaria,70.0
+Mali,MLI,2018,377.17,Malaria,71.0
+Mali,MLI,2019,325.76,Malaria,71.0
+Mali,MLI,2020,349.39,Malaria,62.0
+Mali,MLI,2021,345.92,Malaria,72.0
+Mali,MLI,2022,346.22,Malaria,69.0
+Mali,MLI,2023,346.22,Malaria,68.0
+Mali,MLI,2024,346.22,Malaria,72.0
+Niger,NER,2000,359.24,Malaria,37.0
+Niger,NER,2001,350.71,Malaria,39.0
+Niger,NER,2002,327.87,Malaria,41.0
+Niger,NER,2003,298.92,Malaria,43.0
+Niger,NER,2004,302.78,Malaria,45.0
+Niger,NER,2005,310.49,Malaria,47.0
+Niger,NER,2006,307.39,Malaria,53.0
+Niger,NER,2007,315.37,Malaria,60.0
+Niger,NER,2008,351.76,Malaria,66.0
+Niger,NER,2009,377.45,Malaria,69.0
+Niger,NER,2010,410.05,Malaria,67.0
+Niger,NER,2011,424.02,Malaria,69.0
+Niger,NER,2012,427.97,Malaria,75.0
+Niger,NER,2013,416.72,Malaria,80.0
+Niger,NER,2014,410.12,Malaria,80.0
+Niger,NER,2015,404.9,Malaria,85.0
+Niger,NER,2016,389.33,Malaria,76.0
+Niger,NER,2017,367.77,Malaria,82.0
+Niger,NER,2018,349.75,Malaria,77.0
+Niger,NER,2019,332.56,Malaria,79.0
+Niger,NER,2020,330.78,Malaria,79.0
+Niger,NER,2021,304.18,Malaria,80.0
+Niger,NER,2022,305.14,Malaria,65.0
+Niger,NER,2023,305.14,Malaria,80.0
+Niger,NER,2024,305.14,Malaria,81.0
+Nigeria,NGA,2000,401.79,Malaria,33.0
+Nigeria,NGA,2001,394.49,Malaria,32.0
+Nigeria,NGA,2002,381.75,Malaria,30.0
+Nigeria,NGA,2003,382.09,Malaria,34.0
+Nigeria,NGA,2004,390.12,Malaria,37.0
+Nigeria,NGA,2005,395.9,Malaria,41.0
+Nigeria,NGA,2006,398.57,Malaria,44.0
+Nigeria,NGA,2007,400.61,Malaria,41.0
+Nigeria,NGA,2008,402.01,Malaria,53.0
+Nigeria,NGA,2009,389.96,Malaria,64.0
+Nigeria,NGA,2010,363.36,Malaria,56.0
+Nigeria,NGA,2011,339.51,Malaria,53.0
+Nigeria,NGA,2012,316.22,Malaria,41.0
+Nigeria,NGA,2013,297.83,Malaria,42.0
+Nigeria,NGA,2014,287.7,Malaria,42.0
+Nigeria,NGA,2015,283.81,Malaria,42.0
+Nigeria,NGA,2016,284.83,Malaria,48.0
+Nigeria,NGA,2017,288.98,Malaria,54.0
+Nigeria,NGA,2018,291.07,Malaria,56.0
+Nigeria,NGA,2019,293.0,Malaria,58.0
+Nigeria,NGA,2020,304.37,Malaria,60.0
+Nigeria,NGA,2021,299.27,Malaria,56.0
+Nigeria,NGA,2022,299.0,Malaria,51.0
+Nigeria,NGA,2023,299.0,Malaria,54.0
+Nigeria,NGA,2024,294.25,Malaria,57.0
+Rwanda,RWA,2000,180.43,Malaria,74.0
+Rwanda,RWA,2001,171.34,Malaria,69.0
+Rwanda,RWA,2002,156.99,Malaria,69.0
+Rwanda,RWA,2003,139.22,Malaria,90.0
+Rwanda,RWA,2004,122.34,Malaria,84.0
+Rwanda,RWA,2005,152.06,Malaria,89.0
+Rwanda,RWA,2006,150.06,Malaria,95.0
+Rwanda,RWA,2007,88.02,Malaria,94.0
+Rwanda,RWA,2008,69.73,Malaria,92.0
+Rwanda,RWA,2009,153.74,Malaria,95.0
+Rwanda,RWA,2010,104.65,Malaria,95.0
+Rwanda,RWA,2011,36.94,Malaria,95.0
+Rwanda,RWA,2012,59.69,Malaria,97.0
+Rwanda,RWA,2013,109.49,Malaria,95.0
+Rwanda,RWA,2014,202.3,Malaria,97.0
+Rwanda,RWA,2015,308.04,Malaria,96.0
+Rwanda,RWA,2016,410.08,Malaria,95.0
+Rwanda,RWA,2017,711.44,Malaria,97.0
+Rwanda,RWA,2018,477.57,Malaria,99.0
+Rwanda,RWA,2019,385.35,Malaria,96.0
+Rwanda,RWA,2020,213.12,Malaria,94.0
+Rwanda,RWA,2021,118.74,Malaria,87.0
+Rwanda,RWA,2022,85.57,Malaria,99.0
+Rwanda,RWA,2023,53.64,Malaria,96.0
+Rwanda,RWA,2024,77.14,Malaria,97.0
+Senegal,SEN,2000,230.37,Malaria,48.0
+Senegal,SEN,2001,176.61,Malaria,48.0
+Senegal,SEN,2002,156.98,Malaria,54.0
+Senegal,SEN,2003,168.09,Malaria,60.0
+Senegal,SEN,2004,129.2,Malaria,57.0
+Senegal,SEN,2005,132.26,Malaria,74.0
+Senegal,SEN,2006,121.53,Malaria,80.0
+Senegal,SEN,2007,98.57,Malaria,84.0
+Senegal,SEN,2008,52.18,Malaria,77.0
+Senegal,SEN,2009,32.88,Malaria,79.0
+Senegal,SEN,2010,60.4,Malaria,81.0
+Senegal,SEN,2011,48.31,Malaria,84.0
+Senegal,SEN,2012,53.04,Malaria,83.0
+Senegal,SEN,2013,57.87,Malaria,84.0
+Senegal,SEN,2014,37.65,Malaria,80.0
+Senegal,SEN,2015,69.27,Malaria,80.0
+Senegal,SEN,2016,45.5,Malaria,93.0
+Senegal,SEN,2017,52.06,Malaria,90.0
+Senegal,SEN,2018,65.83,Malaria,86.0
+Senegal,SEN,2019,41.11,Malaria,86.0
+Senegal,SEN,2020,35.59,Malaria,82.0
+Senegal,SEN,2021,41.85,Malaria,88.0
+Senegal,SEN,2022,38.1,Malaria,87.0
+Senegal,SEN,2023,34.69,Malaria,87.0
+Senegal,SEN,2024,36.78,Malaria,87.0
+Sierra Leone,SLE,2000,424.58,Malaria,37.0
+Sierra Leone,SLE,2001,425.06,Malaria,50.0
+Sierra Leone,SLE,2002,425.58,Malaria,62.0
+Sierra Leone,SLE,2003,414.3,Malaria,73.0
+Sierra Leone,SLE,2004,405.39,Malaria,76.0
+Sierra Leone,SLE,2005,401.19,Malaria,71.0
+Sierra Leone,SLE,2006,397.65,Malaria,65.0
+Sierra Leone,SLE,2007,405.15,Malaria,60.0
+Sierra Leone,SLE,2008,427.1,Malaria,73.0
+Sierra Leone,SLE,2009,445.04,Malaria,80.0
+Sierra Leone,SLE,2010,438.89,Malaria,82.0
+Sierra Leone,SLE,2011,427.79,Malaria,84.0
+Sierra Leone,SLE,2012,413.44,Malaria,86.0
+Sierra Leone,SLE,2013,396.12,Malaria,85.0
+Sierra Leone,SLE,2014,380.3,Malaria,80.0
+Sierra Leone,SLE,2015,367.82,Malaria,78.0
+Sierra Leone,SLE,2016,363.56,Malaria,85.0
+Sierra Leone,SLE,2017,350.55,Malaria,80.0
+Sierra Leone,SLE,2018,340.61,Malaria,87.0
+Sierra Leone,SLE,2019,321.88,Malaria,93.0
+Sierra Leone,SLE,2020,313.11,Malaria,87.0
+Sierra Leone,SLE,2021,305.82,Malaria,87.0
+Sierra Leone,SLE,2022,298.19,Malaria,90.0
+Sierra Leone,SLE,2023,284.08,Malaria,90.0
+Sierra Leone,SLE,2024,282.67,Malaria,90.0
+Somalia,SOM,2000,133.15,Malaria,24.0
+Somalia,SOM,2001,141.04,Malaria,20.0
+Somalia,SOM,2002,133.37,Malaria,45.0
+Somalia,SOM,2003,132.19,Malaria,40.0
+Somalia,SOM,2004,120.72,Malaria,40.0
+Somalia,SOM,2005,131.66,Malaria,35.0
+Somalia,SOM,2006,118.99,Malaria,35.0
+Somalia,SOM,2007,95.9,Malaria,35.0
+Somalia,SOM,2008,60.03,Malaria,34.0
+Somalia,SOM,2009,38.1,Malaria,43.0
+Somalia,SOM,2010,41.12,Malaria,46.0
+Somalia,SOM,2011,33.62,Malaria,46.0
+Somalia,SOM,2012,34.13,Malaria,46.0
+Somalia,SOM,2013,40.43,Malaria,47.0
+Somalia,SOM,2014,46.61,Malaria,48.0
+Somalia,SOM,2015,55.22,Malaria,50.0
+Somalia,SOM,2016,55.25,Malaria,51.0
+Somalia,SOM,2017,54.91,Malaria,52.0
+Somalia,SOM,2018,56.16,Malaria,53.0
+Somalia,SOM,2019,56.65,Malaria,52.0
+Somalia,SOM,2020,56.5,Malaria,52.0
+Somalia,SOM,2021,55.35,Malaria,58.0
+Somalia,SOM,2022,54.67,Malaria,69.0
+Somalia,SOM,2023,54.37,Malaria,63.0
+Somalia,SOM,2024,53.28,Malaria,64.0
+South Sudan,SSD,2000,344.59,Malaria,
+South Sudan,SSD,2001,344.91,Malaria,
+South Sudan,SSD,2002,339.69,Malaria,
+South Sudan,SSD,2003,329.78,Malaria,
+South Sudan,SSD,2004,315.5,Malaria,
+South Sudan,SSD,2005,305.86,Malaria,
+South Sudan,SSD,2006,292.76,Malaria,
+South Sudan,SSD,2007,274.8,Malaria,
+South Sudan,SSD,2008,268.1,Malaria,
+South Sudan,SSD,2009,271.12,Malaria,
+South Sudan,SSD,2010,275.62,Malaria,
+South Sudan,SSD,2011,281.33,Malaria,62.0
+South Sudan,SSD,2012,278.4,Malaria,59.0
+South Sudan,SSD,2013,276.1,Malaria,57.0
+South Sudan,SSD,2014,271.04,Malaria,54.0
+South Sudan,SSD,2015,269.31,Malaria,52.0
+South Sudan,SSD,2016,265.71,Malaria,51.0
+South Sudan,SSD,2017,277.3,Malaria,56.0
+South Sudan,SSD,2018,276.3,Malaria,61.0
+South Sudan,SSD,2019,285.93,Malaria,65.0
+South Sudan,SSD,2020,281.6,Malaria,69.0
+South Sudan,SSD,2021,276.82,Malaria,74.0
+South Sudan,SSD,2022,274.78,Malaria,72.0
+South Sudan,SSD,2023,264.93,Malaria,72.0
+South Sudan,SSD,2024,254.08,Malaria,72.0
+Sudan,SDN,2000,89.72,Malaria,58.0
+Sudan,SDN,2001,83.54,Malaria,58.0
+Sudan,SDN,2002,65.5,Malaria,58.0
+Sudan,SDN,2003,60.42,Malaria,65.0
+Sudan,SDN,2004,54.28,Malaria,67.0
+Sudan,SDN,2005,53.25,Malaria,69.0
+Sudan,SDN,2006,52.2,Malaria,73.0
+Sudan,SDN,2007,45.08,Malaria,79.0
+Sudan,SDN,2008,37.18,Malaria,79.0
+Sudan,SDN,2009,34.3,Malaria,82.0
+Sudan,SDN,2010,32.39,Malaria,90.0
+Sudan,SDN,2011,32.03,Malaria,87.0
+Sudan,SDN,2012,32.33,Malaria,85.0
+Sudan,SDN,2013,33.7,Malaria,85.0
+Sudan,SDN,2014,37.1,Malaria,86.0
+Sudan,SDN,2015,43.25,Malaria,87.0
+Sudan,SDN,2016,50.43,Malaria,87.0
+Sudan,SDN,2017,56.38,Malaria,90.0
+Sudan,SDN,2018,59.35,Malaria,88.0
+Sudan,SDN,2019,63.16,Malaria,90.0
+Sudan,SDN,2020,65.76,Malaria,86.0
+Sudan,SDN,2021,70.36,Malaria,81.0
+Sudan,SDN,2022,72.02,Malaria,80.0
+Sudan,SDN,2023,97.57,Malaria,51.0
+Sudan,SDN,2024,98.25,Malaria,46.0
+Tanzania,TZA,2000,334.61,Malaria,78.0
+Tanzania,TZA,2001,318.45,Malaria,86.0
+Tanzania,TZA,2002,297.33,Malaria,89.0
+Tanzania,TZA,2003,278.65,Malaria,97.0
+Tanzania,TZA,2004,264.95,Malaria,94.0
+Tanzania,TZA,2005,251.68,Malaria,91.0
+Tanzania,TZA,2006,225.72,Malaria,93.0
+Tanzania,TZA,2007,197.89,Malaria,90.0
+Tanzania,TZA,2008,174.56,Malaria,88.0
+Tanzania,TZA,2009,155.42,Malaria,91.0
+Tanzania,TZA,2010,145.56,Malaria,92.0
+Tanzania,TZA,2011,132.97,Malaria,93.0
+Tanzania,TZA,2012,121.45,Malaria,97.0
+Tanzania,TZA,2013,131.8,Malaria,99.0
+Tanzania,TZA,2014,146.36,Malaria,97.0
+Tanzania,TZA,2015,141.8,Malaria,95.0
+Tanzania,TZA,2016,134.05,Malaria,83.0
+Tanzania,TZA,2017,123.18,Malaria,90.0
+Tanzania,TZA,2018,111.48,Malaria,88.0
+Tanzania,TZA,2019,116.09,Malaria,89.0
+Tanzania,TZA,2020,123.35,Malaria,87.0
+Tanzania,TZA,2021,133.33,Malaria,80.0
+Tanzania,TZA,2022,132.39,Malaria,84.0
+Tanzania,TZA,2023,138.45,Malaria,84.0
+Tanzania,TZA,2024,136.73,Malaria,84.0
+Uganda,UGA,2000,482.77,Malaria,57.0
+Uganda,UGA,2001,508.43,Malaria,59.0
+Uganda,UGA,2002,501.62,Malaria,62.0
+Uganda,UGA,2003,479.36,Malaria,64.0
+Uganda,UGA,2004,442.78,Malaria,66.0
+Uganda,UGA,2005,426.27,Malaria,68.0
+Uganda,UGA,2006,425.62,Malaria,75.0
+Uganda,UGA,2007,417.91,Malaria,75.0
+Uganda,UGA,2008,417.7,Malaria,70.0
+Uganda,UGA,2009,422.8,Malaria,77.0
+Uganda,UGA,2010,405.97,Malaria,73.0
+Uganda,UGA,2011,382.9,Malaria,75.0
+Uganda,UGA,2012,349.79,Malaria,80.0
+Uganda,UGA,2013,310.27,Malaria,83.0
+Uganda,UGA,2014,292.11,Malaria,85.0
+Uganda,UGA,2015,288.7,Malaria,79.0
+Uganda,UGA,2016,281.02,Malaria,79.0
+Uganda,UGA,2017,276.51,Malaria,83.0
+Uganda,UGA,2018,269.21,Malaria,86.0
+Uganda,UGA,2019,250.82,Malaria,87.0
+Uganda,UGA,2020,255.66,Malaria,89.0
+Uganda,UGA,2021,268.61,Malaria,90.0
+Uganda,UGA,2022,266.58,Malaria,90.0
+Uganda,UGA,2023,267.57,Malaria,90.0
+Uganda,UGA,2024,264.23,Malaria,90.0
+Burkina Faso,BFA,1974,11329.0,Measles,
+Burkina Faso,BFA,1975,33683.0,Measles,
+Burkina Faso,BFA,1976,22563.0,Measles,
+Burkina Faso,BFA,1977,32317.0,Measles,
+Burkina Faso,BFA,1978,9213.0,Measles,
+Burkina Faso,BFA,1979,29672.0,Measles,
+Burkina Faso,BFA,1980,13713.0,Measles,
+Burkina Faso,BFA,1981,17327.0,Measles,
+Burkina Faso,BFA,1982,20940.0,Measles,
+Burkina Faso,BFA,1983,21395.0,Measles,
+Burkina Faso,BFA,1984,30094.0,Measles,
+Burkina Faso,BFA,1985,17461.0,Measles,38.0
+Burkina Faso,BFA,1986,11722.0,Measles,40.0
+Burkina Faso,BFA,1987,28282.0,Measles,37.0
+Burkina Faso,BFA,1988,7782.0,Measles,52.0
+Burkina Faso,BFA,1989,7474.0,Measles,66.0
+Burkina Faso,BFA,1990,9804.0,Measles,79.0
+Burkina Faso,BFA,1991,6590.0,Measles,69.0
+Burkina Faso,BFA,1992,21751.0,Measles,60.0
+Burkina Faso,BFA,1993,14445.0,Measles,50.0
+Burkina Faso,BFA,1994,2925.0,Measles,45.0
+Burkina Faso,BFA,1995,5669.0,Measles,43.0
+Burkina Faso,BFA,1996,18534.0,Measles,40.0
+Burkina Faso,BFA,1997,1438.0,Measles,41.0
+Burkina Faso,BFA,1999,5516.0,Measles,36.0
+Burkina Faso,BFA,2000,6074.0,Measles,48.0
+Burkina Faso,BFA,2001,4174.0,Measles,63.0
+Burkina Faso,BFA,2002,1744.0,Measles,64.0
+Burkina Faso,BFA,2003,2946.0,Measles,76.0
+Burkina Faso,BFA,2004,77.0,Measles,78.0
+Burkina Faso,BFA,2005,253.0,Measles,84.0
+Burkina Faso,BFA,2006,125.0,Measles,88.0
+Burkina Faso,BFA,2007,12.0,Measles,94.0
+Burkina Faso,BFA,2008,395.0,Measles,94.0
+Burkina Faso,BFA,2009,54118.0,Measles,94.0
+Burkina Faso,BFA,2010,2511.0,Measles,92.0
+Burkina Faso,BFA,2011,860.0,Measles,89.0
+Burkina Faso,BFA,2012,7362.0,Measles,87.0
+Burkina Faso,BFA,2013,375.0,Measles,82.0
+Burkina Faso,BFA,2014,343.0,Measles,88.0
+Burkina Faso,BFA,2015,99.0,Measles,88.0
+Burkina Faso,BFA,2016,226.0,Measles,88.0
+Burkina Faso,BFA,2017,49.0,Measles,88.0
+Burkina Faso,BFA,2018,4072.0,Measles,88.0
+Burkina Faso,BFA,2019,672.0,Measles,88.0
+Burkina Faso,BFA,2020,2480.0,Measles,88.0
+Burkina Faso,BFA,2022,252.0,Measles,88.0
+Burkina Faso,BFA,2023,680.0,Measles,88.0
+Burkina Faso,BFA,2024,4397.0,Measles,88.0
+Cameroon,CMR,1974,34750.0,Measles,
+Cameroon,CMR,1976,7277.0,Measles,
+Cameroon,CMR,1978,23837.0,Measles,
+Cameroon,CMR,1981,10546.0,Measles,16.0
+Cameroon,CMR,1982,33876.0,Measles,21.0
+Cameroon,CMR,1983,58904.0,Measles,25.0
+Cameroon,CMR,1984,38580.0,Measles,31.0
+Cameroon,CMR,1985,47178.0,Measles,39.0
+Cameroon,CMR,1986,31936.0,Measles,44.0
+Cameroon,CMR,1987,16654.0,Measles,44.0
+Cameroon,CMR,1988,23207.0,Measles,48.0
+Cameroon,CMR,1989,24314.0,Measles,56.0
+Cameroon,CMR,1990,21150.0,Measles,56.0
+Cameroon,CMR,1991,14622.0,Measles,48.0
+Cameroon,CMR,1992,27442.0,Measles,37.0
+Cameroon,CMR,1993,10892.0,Measles,32.0
+Cameroon,CMR,1994,1548.0,Measles,38.0
+Cameroon,CMR,1995,2463.0,Measles,46.0
+Cameroon,CMR,1996,11770.0,Measles,39.0
+Cameroon,CMR,1997,7504.0,Measles,43.0
+Cameroon,CMR,1998,10731.0,Measles,47.0
+Cameroon,CMR,1999,10894.0,Measles,46.0
+Cameroon,CMR,2000,14629.0,Measles,49.0
+Cameroon,CMR,2001,23934.0,Measles,51.0
+Cameroon,CMR,2002,1448.0,Measles,53.0
+Cameroon,CMR,2003,899.0,Measles,61.0
+Cameroon,CMR,2004,358.0,Measles,64.0
+Cameroon,CMR,2005,605.0,Measles,68.0
+Cameroon,CMR,2006,196.0,Measles,73.0
+Cameroon,CMR,2007,100.0,Measles,74.0
+Cameroon,CMR,2008,495.0,Measles,80.0
+Cameroon,CMR,2009,251.0,Measles,74.0
+Cameroon,CMR,2010,240.0,Measles,79.0
+Cameroon,CMR,2011,504.0,Measles,76.0
+Cameroon,CMR,2012,609.0,Measles,74.0
+Cameroon,CMR,2013,760.0,Measles,71.0
+Cameroon,CMR,2014,831.0,Measles,71.0
+Cameroon,CMR,2015,1809.0,Measles,71.0
+Cameroon,CMR,2016,338.0,Measles,72.0
+Cameroon,CMR,2017,712.0,Measles,67.0
+Cameroon,CMR,2018,814.0,Measles,61.0
+Cameroon,CMR,2019,2809.0,Measles,61.0
+Cameroon,CMR,2020,1509.0,Measles,63.0
+Cameroon,CMR,2021,771.0,Measles,65.0
+Cameroon,CMR,2022,3217.0,Measles,68.0
+Cameroon,CMR,2023,6105.0,Measles,71.0
+Cameroon,CMR,2024,863.0,Measles,71.0
+Chad,TCD,1974,7051.0,Measles,
+Chad,TCD,1975,2243.0,Measles,
+Chad,TCD,1976,15001.0,Measles,
+Chad,TCD,1977,12299.0,Measles,
+Chad,TCD,1978,2033.0,Measles,
+Chad,TCD,1979,306.0,Measles,
+Chad,TCD,1981,36.0,Measles,
+Chad,TCD,1982,1223.0,Measles,
+Chad,TCD,1983,5160.0,Measles,
+Chad,TCD,1984,6921.0,Measles,10.0
+Chad,TCD,1985,6430.0,Measles,7.0
+Chad,TCD,1986,3500.0,Measles,12.0
+Chad,TCD,1987,3623.0,Measles,16.0
+Chad,TCD,1988,3645.0,Measles,17.0
+Chad,TCD,1989,7449.0,Measles,32.0
+Chad,TCD,1990,7226.0,Measles,32.0
+Chad,TCD,1991,21182.0,Measles,28.0
+Chad,TCD,1992,19035.0,Measles,25.0
+Chad,TCD,1993,20894.0,Measles,19.0
+Chad,TCD,1994,9696.0,Measles,24.0
+Chad,TCD,1995,21952.0,Measles,26.0
+Chad,TCD,1996,24162.0,Measles,22.0
+Chad,TCD,1997,10446.0,Measles,30.0
+Chad,TCD,1998,12371.0,Measles,20.0
+Chad,TCD,1999,6868.0,Measles,30.0
+Chad,TCD,2000,3546.0,Measles,28.0
+Chad,TCD,2001,24908.0,Measles,26.0
+Chad,TCD,2002,7277.0,Measles,25.0
+Chad,TCD,2003,15801.0,Measles,23.0
+Chad,TCD,2004,10324.0,Measles,16.0
+Chad,TCD,2005,2.0,Measles,27.0
+Chad,TCD,2006,1594.0,Measles,39.0
+Chad,TCD,2007,441.0,Measles,31.0
+Chad,TCD,2008,63.0,Measles,27.0
+Chad,TCD,2009,165.0,Measles,36.0
+Chad,TCD,2010,194.0,Measles,46.0
+Chad,TCD,2011,8650.0,Measles,54.0
+Chad,TCD,2012,120.0,Measles,63.0
+Chad,TCD,2013,226.0,Measles,57.0
+Chad,TCD,2014,1275.0,Measles,45.0
+Chad,TCD,2015,418.0,Measles,46.0
+Chad,TCD,2016,118.0,Measles,37.0
+Chad,TCD,2017,9.0,Measles,37.0
+Chad,TCD,2018,1457.0,Measles,41.0
+Chad,TCD,2019,1882.0,Measles,40.0
+Chad,TCD,2020,2170.0,Measles,45.0
+Chad,TCD,2021,2577.0,Measles,53.0
+Chad,TCD,2022,2158.0,Measles,54.0
+Chad,TCD,2023,11862.0,Measles,63.0
+Chad,TCD,2024,6978.0,Measles,66.0
+Cote d'Ivoire,CIV,1974,79578.0,Measles,
+Cote d'Ivoire,CIV,1975,73521.0,Measles,
+Cote d'Ivoire,CIV,1976,11139.0,Measles,
+Cote d'Ivoire,CIV,1977,12503.0,Measles,
+Cote d'Ivoire,CIV,1978,11670.0,Measles,
+Cote d'Ivoire,CIV,1979,8840.0,Measles,
+Cote d'Ivoire,CIV,1980,7633.0,Measles,
+Cote d'Ivoire,CIV,1981,14782.0,Measles,
+Cote d'Ivoire,CIV,1982,15605.0,Measles,
+Cote d'Ivoire,CIV,1983,7139.0,Measles,
+Cote d'Ivoire,CIV,1984,5946.0,Measles,31.0
+Cote d'Ivoire,CIV,1985,8892.0,Measles,31.0
+Cote d'Ivoire,CIV,1986,23839.0,Measles,31.0
+Cote d'Ivoire,CIV,1987,34170.0,Measles,30.0
+Cote d'Ivoire,CIV,1988,16864.0,Measles,31.0
+Cote d'Ivoire,CIV,1989,18660.0,Measles,41.0
+Cote d'Ivoire,CIV,1990,17799.0,Measles,56.0
+Cote d'Ivoire,CIV,1991,9902.0,Measles,57.0
+Cote d'Ivoire,CIV,1992,14765.0,Measles,54.0
+Cote d'Ivoire,CIV,1993,7465.0,Measles,52.0
+Cote d'Ivoire,CIV,1995,30039.0,Measles,57.0
+Cote d'Ivoire,CIV,1996,20858.0,Measles,65.0
+Cote d'Ivoire,CIV,1997,9665.0,Measles,68.0
+Cote d'Ivoire,CIV,1998,12289.0,Measles,66.0
+Cote d'Ivoire,CIV,1999,4824.0,Measles,57.0
+Cote d'Ivoire,CIV,2000,5729.0,Measles,68.0
+Cote d'Ivoire,CIV,2001,5790.0,Measles,71.0
+Cote d'Ivoire,CIV,2002,5882.0,Measles,71.0
+Cote d'Ivoire,CIV,2003,4770.0,Measles,70.0
+Cote d'Ivoire,CIV,2004,3466.0,Measles,78.0
+Cote d'Ivoire,CIV,2005,115.0,Measles,84.0
+Cote d'Ivoire,CIV,2006,11.0,Measles,73.0
+Cote d'Ivoire,CIV,2007,5.0,Measles,67.0
+Cote d'Ivoire,CIV,2008,12.0,Measles,63.0
+Cote d'Ivoire,CIV,2009,183.0,Measles,67.0
+Cote d'Ivoire,CIV,2010,441.0,Measles,64.0
+Cote d'Ivoire,CIV,2011,628.0,Measles,49.0
+Cote d'Ivoire,CIV,2012,137.0,Measles,74.0
+Cote d'Ivoire,CIV,2013,48.0,Measles,70.0
+Cote d'Ivoire,CIV,2014,50.0,Measles,59.0
+Cote d'Ivoire,CIV,2015,65.0,Measles,67.0
+Cote d'Ivoire,CIV,2016,45.0,Measles,73.0
+Cote d'Ivoire,CIV,2017,163.0,Measles,70.0
+Cote d'Ivoire,CIV,2018,453.0,Measles,74.0
+Cote d'Ivoire,CIV,2019,372.0,Measles,71.0
+Cote d'Ivoire,CIV,2020,600.0,Measles,63.0
+Cote d'Ivoire,CIV,2021,1837.0,Measles,65.0
+Cote d'Ivoire,CIV,2022,1596.0,Measles,62.0
+Cote d'Ivoire,CIV,2023,1361.0,Measles,70.0
+Cote d'Ivoire,CIV,2024,1872.0,Measles,75.0
+Democratic Republic of Congo,COD,1974,57774.0,Measles,
+Democratic Republic of Congo,COD,1975,51040.0,Measles,
+Democratic Republic of Congo,COD,1976,59919.0,Measles,
+Democratic Republic of Congo,COD,1977,43451.0,Measles,
+Democratic Republic of Congo,COD,1978,37896.0,Measles,
+Democratic Republic of Congo,COD,1979,29497.0,Measles,
+Democratic Republic of Congo,COD,1980,32596.0,Measles,18.0
+Democratic Republic of Congo,COD,1981,38142.0,Measles,23.0
+Democratic Republic of Congo,COD,1982,30775.0,Measles,25.0
+Democratic Republic of Congo,COD,1983,21057.0,Measles,30.0
+Democratic Republic of Congo,COD,1984,11385.0,Measles,30.0
+Democratic Republic of Congo,COD,1985,19508.0,Measles,40.0
+Democratic Republic of Congo,COD,1986,19430.0,Measles,39.0
+Democratic Republic of Congo,COD,1987,14866.0,Measles,41.0
+Democratic Republic of Congo,COD,1988,13214.0,Measles,44.0
+Democratic Republic of Congo,COD,1989,11178.0,Measles,41.0
+Democratic Republic of Congo,COD,1990,4564.0,Measles,38.0
+Democratic Republic of Congo,COD,1992,63.0,Measles,25.0
+Democratic Republic of Congo,COD,1993,2749.0,Measles,33.0
+Democratic Republic of Congo,COD,1994,12573.0,Measles,39.0
+Democratic Republic of Congo,COD,1995,5443.0,Measles,27.0
+Democratic Republic of Congo,COD,1996,9546.0,Measles,21.0
+Democratic Republic of Congo,COD,1997,5766.0,Measles,20.0
+Democratic Republic of Congo,COD,1998,15271.0,Measles,20.0
+Democratic Republic of Congo,COD,1999,12135.0,Measles,15.0
+Democratic Republic of Congo,COD,2000,8282.0,Measles,26.0
+Democratic Republic of Congo,COD,2001,8072.0,Measles,34.0
+Democratic Republic of Congo,COD,2002,30466.0,Measles,41.0
+Democratic Republic of Congo,COD,2003,21956.0,Measles,48.0
+Democratic Republic of Congo,COD,2004,44934.0,Measles,57.0
+Democratic Republic of Congo,COD,2005,182485.0,Measles,61.0
+Democratic Republic of Congo,COD,2006,80123.0,Measles,63.0
+Democratic Republic of Congo,COD,2007,55577.0,Measles,64.0
+Democratic Republic of Congo,COD,2008,12461.0,Measles,64.0
+Democratic Republic of Congo,COD,2009,57.0,Measles,65.0
+Democratic Republic of Congo,COD,2010,5407.0,Measles,66.0
+Democratic Republic of Congo,COD,2011,133802.0,Measles,66.0
+Democratic Republic of Congo,COD,2012,72029.0,Measles,69.0
+Democratic Republic of Congo,COD,2013,88381.0,Measles,68.0
+Democratic Republic of Congo,COD,2014,33711.0,Measles,69.0
+Democratic Republic of Congo,COD,2015,5020.0,Measles,65.0
+Democratic Republic of Congo,COD,2016,5092.0,Measles,63.0
+Democratic Republic of Congo,COD,2017,45107.0,Measles,65.0
+Democratic Republic of Congo,COD,2018,69693.0,Measles,64.0
+Democratic Republic of Congo,COD,2019,333017.0,Measles,65.0
+Democratic Republic of Congo,COD,2020,82290.0,Measles,62.0
+Democratic Republic of Congo,COD,2021,54471.0,Measles,55.0
+Democratic Republic of Congo,COD,2022,4380.0,Measles,56.0
+Democratic Republic of Congo,COD,2023,311500.0,Measles,52.0
+Democratic Republic of Congo,COD,2024,311500.0,Measles,55.0
+Ethiopia,ETH,1974,3821.0,Measles,
+Ethiopia,ETH,1975,5157.0,Measles,
+Ethiopia,ETH,1976,2586.0,Measles,
+Ethiopia,ETH,1977,3132.0,Measles,
+Ethiopia,ETH,1978,11208.0,Measles,
+Ethiopia,ETH,1979,21030.0,Measles,
+Ethiopia,ETH,1980,10690.0,Measles,4.0
+Ethiopia,ETH,1981,9784.0,Measles,3.0
+Ethiopia,ETH,1982,10527.0,Measles,7.0
+Ethiopia,ETH,1983,5866.0,Measles,7.0
+Ethiopia,ETH,1984,9843.0,Measles,8.0
+Ethiopia,ETH,1985,66544.0,Measles,12.0
+Ethiopia,ETH,1986,3760.0,Measles,10.0
+Ethiopia,ETH,1987,4832.0,Measles,13.0
+Ethiopia,ETH,1988,7575.0,Measles,15.0
+Ethiopia,ETH,1989,4169.0,Measles,23.0
+Ethiopia,ETH,1990,1836.0,Measles,38.0
+Ethiopia,ETH,1991,497.0,Measles,17.0
+Ethiopia,ETH,1992,4815.0,Measles,12.0
+Ethiopia,ETH,1993,1152.0,Measles,22.0
+Ethiopia,ETH,1994,1133.0,Measles,54.0
+Ethiopia,ETH,1995,562.0,Measles,38.0
+Ethiopia,ETH,1996,1586.0,Measles,54.0
+Ethiopia,ETH,1997,1113.0,Measles,51.0
+Ethiopia,ETH,1998,1603.0,Measles,39.0
+Ethiopia,ETH,1999,5329.0,Measles,27.0
+Ethiopia,ETH,2000,1660.0,Measles,28.0
+Ethiopia,ETH,2001,2366.0,Measles,29.0
+Ethiopia,ETH,2002,3332.0,Measles,32.0
+Ethiopia,ETH,2003,228.0,Measles,33.0
+Ethiopia,ETH,2004,73.0,Measles,35.0
+Ethiopia,ETH,2005,357.0,Measles,40.0
+Ethiopia,ETH,2006,1451.0,Measles,44.0
+Ethiopia,ETH,2007,1446.0,Measles,49.0
+Ethiopia,ETH,2008,3511.0,Measles,54.0
+Ethiopia,ETH,2009,1176.0,Measles,59.0
+Ethiopia,ETH,2010,4235.0,Measles,64.0
+Ethiopia,ETH,2011,3255.0,Measles,68.0
+Ethiopia,ETH,2012,4347.0,Measles,62.0
+Ethiopia,ETH,2013,5253.0,Measles,55.0
+Ethiopia,ETH,2014,12739.0,Measles,54.0
+Ethiopia,ETH,2015,17745.0,Measles,56.0
+Ethiopia,ETH,2016,4579.0,Measles,57.0
+Ethiopia,ETH,2017,1921.0,Measles,59.0
+Ethiopia,ETH,2018,1752.0,Measles,54.0
+Ethiopia,ETH,2019,3998.0,Measles,56.0
+Ethiopia,ETH,2020,1952.0,Measles,57.0
+Ethiopia,ETH,2021,1953.0,Measles,60.0
+Ethiopia,ETH,2022,9292.0,Measles,62.0
+Ethiopia,ETH,2023,24038.0,Measles,68.0
+Ethiopia,ETH,2024,31044.0,Measles,72.0
+Ghana,GHA,1974,91315.0,Measles,
+Ghana,GHA,1975,140821.0,Measles,
+Ghana,GHA,1976,131405.0,Measles,
+Ghana,GHA,1977,108440.0,Measles,
+Ghana,GHA,1978,107381.0,Measles,
+Ghana,GHA,1979,88808.0,Measles,
+Ghana,GHA,1980,82684.0,Measles,16.0
+Ghana,GHA,1981,38476.0,Measles,23.0
+Ghana,GHA,1982,79636.0,Measles,21.0
+Ghana,GHA,1983,36561.0,Measles,16.0
+Ghana,GHA,1984,40179.0,Measles,10.0
+Ghana,GHA,1985,64517.0,Measles,21.0
+Ghana,GHA,1986,11099.0,Measles,31.0
+Ghana,GHA,1987,24781.0,Measles,51.0
+Ghana,GHA,1988,40456.0,Measles,59.0
+Ghana,GHA,1989,19997.0,Measles,65.0
+Ghana,GHA,1990,32246.0,Measles,61.0
+Ghana,GHA,1991,17135.0,Measles,63.0
+Ghana,GHA,1992,39933.0,Measles,64.0
+Ghana,GHA,1993,34641.0,Measles,66.0
+Ghana,GHA,1994,34821.0,Measles,68.0
+Ghana,GHA,1995,40276.0,Measles,70.0
+Ghana,GHA,1996,34273.0,Measles,71.0
+Ghana,GHA,1997,37261.0,Measles,73.0
+Ghana,GHA,1998,23335.0,Measles,78.0
+Ghana,GHA,1999,15987.0,Measles,81.0
+Ghana,GHA,2000,23068.0,Measles,90.0
+Ghana,GHA,2001,13476.0,Measles,78.0
+Ghana,GHA,2002,12289.0,Measles,78.0
+Ghana,GHA,2003,1939.0,Measles,80.0
+Ghana,GHA,2004,60.0,Measles,83.0
+Ghana,GHA,2005,435.0,Measles,83.0
+Ghana,GHA,2006,420.0,Measles,85.0
+Ghana,GHA,2007,6.0,Measles,95.0
+Ghana,GHA,2008,82.0,Measles,86.0
+Ghana,GHA,2009,101.0,Measles,93.0
+Ghana,GHA,2010,641.0,Measles,93.0
+Ghana,GHA,2011,120.0,Measles,91.0
+Ghana,GHA,2012,1613.0,Measles,89.0
+Ghana,GHA,2013,319.0,Measles,89.0
+Ghana,GHA,2014,124.0,Measles,92.0
+Ghana,GHA,2015,23.0,Measles,89.0
+Ghana,GHA,2016,32.0,Measles,89.0
+Ghana,GHA,2017,19.0,Measles,95.0
+Ghana,GHA,2018,34.0,Measles,92.0
+Ghana,GHA,2019,1274.0,Measles,92.0
+Ghana,GHA,2020,88.0,Measles,88.0
+Ghana,GHA,2021,52.0,Measles,94.0
+Ghana,GHA,2022,395.0,Measles,95.0
+Ghana,GHA,2023,2282.0,Measles,90.0
+Ghana,GHA,2024,1944.0,Measles,90.0
+Guinea,GIN,1974,11798.0,Measles,
+Guinea,GIN,1975,7536.0,Measles,
+Guinea,GIN,1976,5852.0,Measles,
+Guinea,GIN,1977,8045.0,Measles,
+Guinea,GIN,1978,4061.0,Measles,
+Guinea,GIN,1979,6236.0,Measles,
+Guinea,GIN,1980,8552.0,Measles,
+Guinea,GIN,1981,11397.0,Measles,15.0
+Guinea,GIN,1982,15038.0,Measles,34.0
+Guinea,GIN,1983,8856.0,Measles,30.0
+Guinea,GIN,1984,4396.0,Measles,29.0
+Guinea,GIN,1985,2969.0,Measles,29.0
+Guinea,GIN,1986,2592.0,Measles,28.0
+Guinea,GIN,1987,7357.0,Measles,28.0
+Guinea,GIN,1988,3353.0,Measles,27.0
+Guinea,GIN,1989,4152.0,Measles,27.0
+Guinea,GIN,1990,12756.0,Measles,35.0
+Guinea,GIN,1991,6708.0,Measles,42.0
+Guinea,GIN,1992,1617.0,Measles,52.0
+Guinea,GIN,1993,5228.0,Measles,55.0
+Guinea,GIN,1994,2372.0,Measles,58.0
+Guinea,GIN,1995,1085.0,Measles,61.0
+Guinea,GIN,1996,10292.0,Measles,61.0
+Guinea,GIN,1997,10170.0,Measles,56.0
+Guinea,GIN,1998,9170.0,Measles,52.0
+Guinea,GIN,1999,18004.0,Measles,40.0
+Guinea,GIN,2000,11294.0,Measles,42.0
+Guinea,GIN,2001,7408.0,Measles,44.0
+Guinea,GIN,2002,2151.0,Measles,46.0
+Guinea,GIN,2003,2497.0,Measles,48.0
+Guinea,GIN,2004,10.0,Measles,50.0
+Guinea,GIN,2005,99.0,Measles,51.0
+Guinea,GIN,2006,4.0,Measles,51.0
+Guinea,GIN,2007,3.0,Measles,57.0
+Guinea,GIN,2008,89.0,Measles,55.0
+Guinea,GIN,2009,264.0,Measles,53.0
+Guinea,GIN,2010,45.0,Measles,58.0
+Guinea,GIN,2011,11.0,Measles,62.0
+Guinea,GIN,2012,6.0,Measles,58.0
+Guinea,GIN,2013,53.0,Measles,55.0
+Guinea,GIN,2014,175.0,Measles,51.0
+Guinea,GIN,2015,243.0,Measles,47.0
+Guinea,GIN,2016,316.0,Measles,48.0
+Guinea,GIN,2017,2036.0,Measles,48.0
+Guinea,GIN,2018,482.0,Measles,49.0
+Guinea,GIN,2019,4555.0,Measles,50.0
+Guinea,GIN,2020,506.0,Measles,50.0
+Guinea,GIN,2021,505.0,Measles,51.0
+Guinea,GIN,2022,417.0,Measles,51.0
+Guinea,GIN,2023,94.0,Measles,52.0
+Guinea,GIN,2024,577.0,Measles,60.0
+Kenya,KEN,1974,38885.0,Measles,
+Kenya,KEN,1975,33868.0,Measles,
+Kenya,KEN,1976,34649.0,Measles,
+Kenya,KEN,1977,48758.0,Measles,
+Kenya,KEN,1978,41572.0,Measles,
+Kenya,KEN,1979,66792.0,Measles,
+Kenya,KEN,1980,28473.0,Measles,
+Kenya,KEN,1981,257839.0,Measles,
+Kenya,KEN,1982,270767.0,Measles,
+Kenya,KEN,1983,285681.0,Measles,
+Kenya,KEN,1984,200143.0,Measles,55.0
+Kenya,KEN,1985,111492.0,Measles,63.0
+Kenya,KEN,1986,26199.0,Measles,65.0
+Kenya,KEN,1987,49858.0,Measles,69.0
+Kenya,KEN,1988,70200.0,Measles,72.0
+Kenya,KEN,1989,86727.0,Measles,75.0
+Kenya,KEN,1990,77072.0,Measles,78.0
+Kenya,KEN,1991,59937.0,Measles,81.0
+Kenya,KEN,1992,65004.0,Measles,84.0
+Kenya,KEN,1993,961.0,Measles,84.0
+Kenya,KEN,1994,4180.0,Measles,84.0
+Kenya,KEN,1995,3322.0,Measles,83.0
+Kenya,KEN,1996,3572.0,Measles,81.0
+Kenya,KEN,1997,3339.0,Measles,79.0
+Kenya,KEN,1998,9262.0,Measles,78.0
+Kenya,KEN,1999,8601.0,Measles,76.0
+Kenya,KEN,2000,21002.0,Measles,78.0
+Kenya,KEN,2001,11304.0,Measles,77.0
+Kenya,KEN,2002,766.0,Measles,78.0
+Kenya,KEN,2003,65.0,Measles,72.0
+Kenya,KEN,2004,20.0,Measles,73.0
+Kenya,KEN,2005,153.0,Measles,69.0
+Kenya,KEN,2006,1847.0,Measles,77.0
+Kenya,KEN,2007,1516.0,Measles,80.0
+Kenya,KEN,2008,1282.0,Measles,90.0
+Kenya,KEN,2009,1218.0,Measles,88.0
+Kenya,KEN,2010,95.0,Measles,86.0
+Kenya,KEN,2011,2395.0,Measles,87.0
+Kenya,KEN,2013,190.0,Measles,94.0
+Kenya,KEN,2014,354.0,Measles,95.0
+Kenya,KEN,2015,95.0,Measles,96.0
+Kenya,KEN,2016,128.0,Measles,93.0
+Kenya,KEN,2017,63.0,Measles,84.0
+Kenya,KEN,2018,822.0,Measles,92.0
+Kenya,KEN,2019,439.0,Measles,92.0
+Kenya,KEN,2020,597.0,Measles,89.0
+Kenya,KEN,2021,266.0,Measles,90.0
+Kenya,KEN,2022,1774.0,Measles,89.0
+Kenya,KEN,2023,896.0,Measles,91.0
+Kenya,KEN,2024,525.0,Measles,88.0
+Liberia,LBR,1974,592.0,Measles,
+Liberia,LBR,1975,591.0,Measles,
+Liberia,LBR,1976,2212.0,Measles,
+Liberia,LBR,1977,3588.0,Measles,
+Liberia,LBR,1978,3705.0,Measles,
+Liberia,LBR,1979,3243.0,Measles,
+Liberia,LBR,1980,6567.0,Measles,
+Liberia,LBR,1981,7810.0,Measles,
+Liberia,LBR,1982,6873.0,Measles,
+Liberia,LBR,1983,4835.0,Measles,
+Liberia,LBR,1984,6151.0,Measles,
+Liberia,LBR,1985,2686.0,Measles,
+Liberia,LBR,1986,836.0,Measles,
+Liberia,LBR,1987,2178.0,Measles,
+Liberia,LBR,1988,2556.0,Measles,
+Liberia,LBR,1989,1866.0,Measles,
+Liberia,LBR,1992,5776.0,Measles,
+Liberia,LBR,1993,6398.0,Measles,
+Liberia,LBR,1994,571.0,Measles,
+Liberia,LBR,1995,56.0,Measles,
+Liberia,LBR,1996,1938.0,Measles,
+Liberia,LBR,1997,2961.0,Measles,
+Liberia,LBR,1998,1436.0,Measles,
+Liberia,LBR,1999,1679.0,Measles,69.0
+Liberia,LBR,2000,5977.0,Measles,63.0
+Liberia,LBR,2001,1379.0,Measles,58.0
+Liberia,LBR,2002,131.0,Measles,52.0
+Liberia,LBR,2003,142.0,Measles,47.0
+Liberia,LBR,2004,4.0,Measles,41.0
+Liberia,LBR,2005,8.0,Measles,62.0
+Liberia,LBR,2006,20.0,Measles,63.0
+Liberia,LBR,2007,1.0,Measles,71.0
+Liberia,LBR,2008,1.0,Measles,76.0
+Liberia,LBR,2009,6.0,Measles,83.0
+Liberia,LBR,2010,2200.0,Measles,65.0
+Liberia,LBR,2011,279.0,Measles,71.0
+Liberia,LBR,2012,43.0,Measles,80.0
+Liberia,LBR,2013,0.0,Measles,74.0
+Liberia,LBR,2014,34.0,Measles,58.0
+Liberia,LBR,2015,1060.0,Measles,64.0
+Liberia,LBR,2016,789.0,Measles,70.0
+Liberia,LBR,2017,960.0,Measles,75.0
+Liberia,LBR,2018,3781.0,Measles,74.0
+Liberia,LBR,2019,1203.0,Measles,68.0
+Liberia,LBR,2020,884.0,Measles,61.0
+Liberia,LBR,2021,250.0,Measles,58.0
+Liberia,LBR,2022,8300.0,Measles,79.0
+Liberia,LBR,2023,4604.0,Measles,82.0
+Liberia,LBR,2024,1053.0,Measles,82.0
+Mali,MLI,1974,40476.0,Measles,
+Mali,MLI,1975,34481.0,Measles,
+Mali,MLI,1976,39673.0,Measles,
+Mali,MLI,1977,25624.0,Measles,
+Mali,MLI,1978,18049.0,Measles,
+Mali,MLI,1979,12782.0,Measles,
+Mali,MLI,1980,10007.0,Measles,
+Mali,MLI,1981,8413.0,Measles,
+Mali,MLI,1982,16432.0,Measles,
+Mali,MLI,1983,8759.0,Measles,
+Mali,MLI,1984,4494.0,Measles,
+Mali,MLI,1985,29732.0,Measles,19.0
+Mali,MLI,1986,4669.0,Measles,27.0
+Mali,MLI,1987,4352.0,Measles,11.0
+Mali,MLI,1988,4478.0,Measles,23.0
+Mali,MLI,1989,3605.0,Measles,40.0
+Mali,MLI,1990,1388.0,Measles,43.0
+Mali,MLI,1991,13473.0,Measles,42.0
+Mali,MLI,1992,7830.0,Measles,35.0
+Mali,MLI,1993,10595.0,Measles,51.0
+Mali,MLI,1994,3420.0,Measles,46.0
+Mali,MLI,1995,3306.0,Measles,52.0
+Mali,MLI,1996,10995.0,Measles,57.0
+Mali,MLI,1997,3531.0,Measles,56.0
+Mali,MLI,1998,10240.0,Measles,54.0
+Mali,MLI,1999,2506.0,Measles,51.0
+Mali,MLI,2000,1578.0,Measles,49.0
+Mali,MLI,2001,4464.0,Measles,54.0
+Mali,MLI,2002,717.0,Measles,56.0
+Mali,MLI,2003,232.0,Measles,57.0
+Mali,MLI,2004,172.0,Measles,63.0
+Mali,MLI,2005,33.0,Measles,73.0
+Mali,MLI,2006,128.0,Measles,68.0
+Mali,MLI,2007,2.0,Measles,66.0
+Mali,MLI,2008,98.0,Measles,71.0
+Mali,MLI,2009,2939.0,Measles,73.0
+Mali,MLI,2010,1719.0,Measles,78.0
+Mali,MLI,2011,24.0,Measles,72.0
+Mali,MLI,2012,341.0,Measles,67.0
+Mali,MLI,2013,221.0,Measles,62.0
+Mali,MLI,2014,290.0,Measles,65.0
+Mali,MLI,2015,215.0,Measles,67.0
+Mali,MLI,2016,107.0,Measles,70.0
+Mali,MLI,2017,26.0,Measles,70.0
+Mali,MLI,2018,499.0,Measles,71.0
+Mali,MLI,2019,454.0,Measles,71.0
+Mali,MLI,2020,498.0,Measles,62.0
+Mali,MLI,2021,2074.0,Measles,72.0
+Mali,MLI,2022,765.0,Measles,69.0
+Mali,MLI,2023,364.0,Measles,68.0
+Mali,MLI,2024,366.0,Measles,72.0
+Niger,NER,1974,32646.0,Measles,
+Niger,NER,1975,17018.0,Measles,
+Niger,NER,1976,23523.0,Measles,
+Niger,NER,1977,18175.0,Measles,
+Niger,NER,1978,35302.0,Measles,
+Niger,NER,1979,44294.0,Measles,
+Niger,NER,1980,36811.0,Measles,
+Niger,NER,1981,36139.0,Measles,19.0
+Niger,NER,1982,39815.0,Measles,18.0
+Niger,NER,1983,30288.0,Measles,16.0
+Niger,NER,1984,42199.0,Measles,22.0
+Niger,NER,1985,64689.0,Measles,27.0
+Niger,NER,1986,17626.0,Measles,27.0
+Niger,NER,1987,14290.0,Measles,27.0
+Niger,NER,1988,16864.0,Measles,24.0
+Niger,NER,1989,22932.0,Measles,14.0
+Niger,NER,1990,20463.0,Measles,25.0
+Niger,NER,1991,90071.0,Measles,28.0
+Niger,NER,1992,31341.0,Measles,21.0
+Niger,NER,1993,36557.0,Measles,19.0
+Niger,NER,1994,48685.0,Measles,19.0
+Niger,NER,1995,67986.0,Measles,40.0
+Niger,NER,1996,68921.0,Measles,38.0
+Niger,NER,1997,32649.0,Measles,35.0
+Niger,NER,1998,11404.0,Measles,35.0
+Niger,NER,1999,36156.0,Measles,35.0
+Niger,NER,2000,21319.0,Measles,37.0
+Niger,NER,2001,61208.0,Measles,39.0
+Niger,NER,2002,31584.0,Measles,41.0
+Niger,NER,2003,54190.0,Measles,43.0
+Niger,NER,2004,63057.0,Measles,45.0
+Niger,NER,2005,2183.0,Measles,47.0
+Niger,NER,2006,59.0,Measles,53.0
+Niger,NER,2007,282.0,Measles,60.0
+Niger,NER,2008,1317.0,Measles,66.0
+Niger,NER,2009,801.0,Measles,69.0
+Niger,NER,2010,372.0,Measles,67.0
+Niger,NER,2011,771.0,Measles,69.0
+Niger,NER,2012,272.0,Measles,75.0
+Niger,NER,2013,1224.0,Measles,80.0
+Niger,NER,2014,1142.0,Measles,80.0
+Niger,NER,2015,7693.0,Measles,85.0
+Niger,NER,2016,776.0,Measles,76.0
+Niger,NER,2017,1171.0,Measles,82.0
+Niger,NER,2018,5034.0,Measles,77.0
+Niger,NER,2019,10321.0,Measles,79.0
+Niger,NER,2020,2754.0,Measles,79.0
+Niger,NER,2021,9271.0,Measles,80.0
+Niger,NER,2022,12898.0,Measles,65.0
+Niger,NER,2023,1708.0,Measles,80.0
+Niger,NER,2024,2362.0,Measles,81.0
+Nigeria,NGA,1974,115634.0,Measles,
+Nigeria,NGA,1975,134976.0,Measles,
+Nigeria,NGA,1976,153560.0,Measles,
+Nigeria,NGA,1977,282897.0,Measles,
+Nigeria,NGA,1978,188727.0,Measles,
+Nigeria,NGA,1979,176468.0,Measles,
+Nigeria,NGA,1980,162106.0,Measles,
+Nigeria,NGA,1981,129671.0,Measles,
+Nigeria,NGA,1982,139785.0,Measles,
+Nigeria,NGA,1983,136778.0,Measles,
+Nigeria,NGA,1984,182591.0,Measles,9.0
+Nigeria,NGA,1985,161768.0,Measles,17.0
+Nigeria,NGA,1986,115743.0,Measles,28.0
+Nigeria,NGA,1987,77566.0,Measles,36.0
+Nigeria,NGA,1988,75908.0,Measles,46.0
+Nigeria,NGA,1989,33678.0,Measles,59.0
+Nigeria,NGA,1990,115682.0,Measles,54.0
+Nigeria,NGA,1991,44026.0,Measles,57.0
+Nigeria,NGA,1992,85965.0,Measles,43.0
+Nigeria,NGA,1993,54734.0,Measles,40.0
+Nigeria,NGA,1994,106081.0,Measles,41.0
+Nigeria,NGA,1995,12393.0,Measles,44.0
+Nigeria,NGA,1996,88675.0,Measles,38.0
+Nigeria,NGA,1997,21385.0,Measles,38.0
+Nigeria,NGA,1998,143098.0,Measles,38.0
+Nigeria,NGA,1999,217151.0,Measles,35.0
+Nigeria,NGA,2000,212183.0,Measles,33.0
+Nigeria,NGA,2001,168107.0,Measles,32.0
+Nigeria,NGA,2002,42007.0,Measles,30.0
+Nigeria,NGA,2003,141258.0,Measles,34.0
+Nigeria,NGA,2004,31521.0,Measles,37.0
+Nigeria,NGA,2005,110927.0,Measles,41.0
+Nigeria,NGA,2006,704.0,Measles,44.0
+Nigeria,NGA,2007,2613.0,Measles,41.0
+Nigeria,NGA,2008,9960.0,Measles,53.0
+Nigeria,NGA,2009,1272.0,Measles,64.0
+Nigeria,NGA,2010,8491.0,Measles,56.0
+Nigeria,NGA,2011,18843.0,Measles,53.0
+Nigeria,NGA,2012,6447.0,Measles,41.0
+Nigeria,NGA,2013,52852.0,Measles,42.0
+Nigeria,NGA,2014,6855.0,Measles,42.0
+Nigeria,NGA,2015,12423.0,Measles,42.0
+Nigeria,NGA,2016,17136.0,Measles,48.0
+Nigeria,NGA,2017,11190.0,Measles,54.0
+Nigeria,NGA,2018,7063.0,Measles,56.0
+Nigeria,NGA,2019,28094.0,Measles,58.0
+Nigeria,NGA,2020,8877.0,Measles,60.0
+Nigeria,NGA,2021,10649.0,Measles,56.0
+Nigeria,NGA,2022,23983.0,Measles,51.0
+Nigeria,NGA,2023,20143.0,Measles,54.0
+Nigeria,NGA,2024,14999.0,Measles,57.0
+Rwanda,RWA,1974,48246.0,Measles,
+Rwanda,RWA,1975,44721.0,Measles,
+Rwanda,RWA,1976,79278.0,Measles,
+Rwanda,RWA,1977,73337.0,Measles,
+Rwanda,RWA,1978,96203.0,Measles,
+Rwanda,RWA,1979,61094.0,Measles,
+Rwanda,RWA,1980,80402.0,Measles,
+Rwanda,RWA,1981,79384.0,Measles,42.0
+Rwanda,RWA,1982,36792.0,Measles,48.0
+Rwanda,RWA,1983,20001.0,Measles,53.0
+Rwanda,RWA,1984,17269.0,Measles,53.0
+Rwanda,RWA,1985,16760.0,Measles,52.0
+Rwanda,RWA,1986,42749.0,Measles,79.0
+Rwanda,RWA,1987,12387.0,Measles,78.0
+Rwanda,RWA,1988,4364.0,Measles,79.0
+Rwanda,RWA,1989,5429.0,Measles,83.0
+Rwanda,RWA,1990,8970.0,Measles,83.0
+Rwanda,RWA,1991,5820.0,Measles,89.0
+Rwanda,RWA,1992,17429.0,Measles,82.0
+Rwanda,RWA,1993,9861.0,Measles,74.0
+Rwanda,RWA,1994,5999.0,Measles,25.0
+Rwanda,RWA,1995,28874.0,Measles,84.0
+Rwanda,RWA,1996,3988.0,Measles,76.0
+Rwanda,RWA,1997,787.0,Measles,66.0
+Rwanda,RWA,1999,4359.0,Measles,78.0
+Rwanda,RWA,2000,2095.0,Measles,74.0
+Rwanda,RWA,2001,896.0,Measles,69.0
+Rwanda,RWA,2002,2738.0,Measles,69.0
+Rwanda,RWA,2003,1064.0,Measles,90.0
+Rwanda,RWA,2004,386.0,Measles,84.0
+Rwanda,RWA,2005,129.0,Measles,89.0
+Rwanda,RWA,2006,494.0,Measles,95.0
+Rwanda,RWA,2007,26.0,Measles,94.0
+Rwanda,RWA,2008,6.0,Measles,92.0
+Rwanda,RWA,2009,5.0,Measles,95.0
+Rwanda,RWA,2010,121.0,Measles,95.0
+Rwanda,RWA,2011,31.0,Measles,95.0
+Rwanda,RWA,2012,75.0,Measles,97.0
+Rwanda,RWA,2013,17.0,Measles,95.0
+Rwanda,RWA,2014,10.0,Measles,97.0
+Rwanda,RWA,2015,1.0,Measles,96.0
+Rwanda,RWA,2016,95.0,Measles,95.0
+Rwanda,RWA,2017,145.0,Measles,97.0
+Rwanda,RWA,2018,229.0,Measles,99.0
+Rwanda,RWA,2019,818.0,Measles,96.0
+Rwanda,RWA,2020,108.0,Measles,94.0
+Rwanda,RWA,2021,40.0,Measles,87.0
+Rwanda,RWA,2022,29.0,Measles,99.0
+Rwanda,RWA,2023,108.0,Measles,96.0
+Rwanda,RWA,2024,53.0,Measles,97.0
+Senegal,SEN,1974,35069.0,Measles,
+Senegal,SEN,1975,26567.0,Measles,
+Senegal,SEN,1976,46309.0,Measles,
+Senegal,SEN,1977,44844.0,Measles,
+Senegal,SEN,1978,29888.0,Measles,
+Senegal,SEN,1979,39188.0,Measles,
+Senegal,SEN,1980,29144.0,Measles,
+Senegal,SEN,1981,34516.0,Measles,
+Senegal,SEN,1982,32380.0,Measles,
+Senegal,SEN,1983,26481.0,Measles,
+Senegal,SEN,1986,6831.0,Measles,71.0
+Senegal,SEN,1987,3453.0,Measles,66.0
+Senegal,SEN,1988,1596.0,Measles,60.0
+Senegal,SEN,1989,10940.0,Measles,48.0
+Senegal,SEN,1990,5004.0,Measles,51.0
+Senegal,SEN,1991,11427.0,Measles,54.0
+Senegal,SEN,1992,15367.0,Measles,57.0
+Senegal,SEN,1993,14693.0,Measles,58.0
+Senegal,SEN,1994,5944.0,Measles,59.0
+Senegal,SEN,1996,8069.0,Measles,70.0
+Senegal,SEN,1997,6594.0,Measles,65.0
+Senegal,SEN,1998,6594.0,Measles,62.0
+Senegal,SEN,1999,3668.0,Measles,60.0
+Senegal,SEN,2000,5839.0,Measles,48.0
+Senegal,SEN,2001,24789.0,Measles,48.0
+Senegal,SEN,2002,18184.0,Measles,54.0
+Senegal,SEN,2003,1519.0,Measles,60.0
+Senegal,SEN,2004,31.0,Measles,57.0
+Senegal,SEN,2005,0.0,Measles,74.0
+Senegal,SEN,2006,3.0,Measles,80.0
+Senegal,SEN,2007,11.0,Measles,84.0
+Senegal,SEN,2008,6.0,Measles,77.0
+Senegal,SEN,2009,999.0,Measles,79.0
+Senegal,SEN,2010,428.0,Measles,81.0
+Senegal,SEN,2011,18.0,Measles,84.0
+Senegal,SEN,2012,46.0,Measles,83.0
+Senegal,SEN,2013,17.0,Measles,84.0
+Senegal,SEN,2014,32.0,Measles,80.0
+Senegal,SEN,2015,58.0,Measles,80.0
+Senegal,SEN,2016,162.0,Measles,93.0
+Senegal,SEN,2017,11.0,Measles,90.0
+Senegal,SEN,2018,12.0,Measles,86.0
+Senegal,SEN,2019,267.0,Measles,86.0
+Senegal,SEN,2020,212.0,Measles,82.0
+Senegal,SEN,2021,187.0,Measles,88.0
+Senegal,SEN,2022,508.0,Measles,87.0
+Senegal,SEN,2023,564.0,Measles,87.0
+Senegal,SEN,2024,496.0,Measles,87.0
+Sierra Leone,SLE,1974,1328.0,Measles,
+Sierra Leone,SLE,1976,474.0,Measles,
+Sierra Leone,SLE,1977,534.0,Measles,
+Sierra Leone,SLE,1978,151.0,Measles,
+Sierra Leone,SLE,1979,4102.0,Measles,
+Sierra Leone,SLE,1980,3625.0,Measles,
+Sierra Leone,SLE,1981,3408.0,Measles,
+Sierra Leone,SLE,1982,4102.0,Measles,
+Sierra Leone,SLE,1983,4327.0,Measles,
+Sierra Leone,SLE,1984,4016.0,Measles,
+Sierra Leone,SLE,1985,3351.0,Measles,
+Sierra Leone,SLE,1986,164.0,Measles,
+Sierra Leone,SLE,1987,1000.0,Measles,
+Sierra Leone,SLE,1988,207.0,Measles,
+Sierra Leone,SLE,1989,625.0,Measles,
+Sierra Leone,SLE,1990,830.0,Measles,
+Sierra Leone,SLE,1991,284.0,Measles,
+Sierra Leone,SLE,1992,914.0,Measles,
+Sierra Leone,SLE,1993,2288.0,Measles,
+Sierra Leone,SLE,1994,114.0,Measles,
+Sierra Leone,SLE,1995,344.0,Measles,
+Sierra Leone,SLE,1997,361.0,Measles,
+Sierra Leone,SLE,2000,3575.0,Measles,37.0
+Sierra Leone,SLE,2001,649.0,Measles,50.0
+Sierra Leone,SLE,2002,568.0,Measles,62.0
+Sierra Leone,SLE,2003,586.0,Measles,73.0
+Sierra Leone,SLE,2004,7.0,Measles,76.0
+Sierra Leone,SLE,2005,29.0,Measles,71.0
+Sierra Leone,SLE,2006,33.0,Measles,65.0
+Sierra Leone,SLE,2007,0.0,Measles,60.0
+Sierra Leone,SLE,2008,44.0,Measles,73.0
+Sierra Leone,SLE,2009,31.0,Measles,80.0
+Sierra Leone,SLE,2010,1089.0,Measles,82.0
+Sierra Leone,SLE,2011,1865.0,Measles,84.0
+Sierra Leone,SLE,2012,678.0,Measles,86.0
+Sierra Leone,SLE,2013,15.0,Measles,85.0
+Sierra Leone,SLE,2014,1006.0,Measles,80.0
+Sierra Leone,SLE,2015,607.0,Measles,78.0
+Sierra Leone,SLE,2016,920.0,Measles,85.0
+Sierra Leone,SLE,2017,1873.0,Measles,80.0
+Sierra Leone,SLE,2018,344.0,Measles,87.0
+Sierra Leone,SLE,2019,40.0,Measles,93.0
+Sierra Leone,SLE,2020,17.0,Measles,87.0
+Sierra Leone,SLE,2021,170.0,Measles,87.0
+Sierra Leone,SLE,2022,731.0,Measles,90.0
+Sierra Leone,SLE,2023,645.0,Measles,90.0
+Sierra Leone,SLE,2024,129.0,Measles,90.0
+Somalia,SOM,1978,79.0,Measles,
+Somalia,SOM,1983,622.0,Measles,6.0
+Somalia,SOM,1984,487.0,Measles,16.0
+Somalia,SOM,1985,128.0,Measles,35.0
+Somalia,SOM,1986,70.0,Measles,25.0
+Somalia,SOM,1987,222.0,Measles,28.0
+Somalia,SOM,1988,296.0,Measles,33.0
+Somalia,SOM,1989,988.0,Measles,30.0
+Somalia,SOM,1996,1830.0,Measles,33.0
+Somalia,SOM,1998,3075.0,Measles,32.0
+Somalia,SOM,1999,5523.0,Measles,38.0
+Somalia,SOM,2000,3965.0,Measles,24.0
+Somalia,SOM,2001,3571.0,Measles,20.0
+Somalia,SOM,2002,9559.0,Measles,45.0
+Somalia,SOM,2003,8257.0,Measles,40.0
+Somalia,SOM,2004,12008.0,Measles,40.0
+Somalia,SOM,2006,7.0,Measles,35.0
+Somalia,SOM,2007,1149.0,Measles,35.0
+Somalia,SOM,2008,1081.0,Measles,34.0
+Somalia,SOM,2009,13.0,Measles,43.0
+Somalia,SOM,2010,115.0,Measles,46.0
+Somalia,SOM,2011,17298.0,Measles,46.0
+Somalia,SOM,2012,9983.0,Measles,46.0
+Somalia,SOM,2013,3173.0,Measles,47.0
+Somalia,SOM,2014,10229.0,Measles,48.0
+Somalia,SOM,2015,7497.0,Measles,50.0
+Somalia,SOM,2016,26.0,Measles,51.0
+Somalia,SOM,2017,23039.0,Measles,52.0
+Somalia,SOM,2018,9126.0,Measles,53.0
+Somalia,SOM,2019,283.0,Measles,52.0
+Somalia,SOM,2020,2531.0,Measles,52.0
+Somalia,SOM,2021,7191.0,Measles,58.0
+Somalia,SOM,2022,17361.0,Measles,69.0
+Somalia,SOM,2023,3167.0,Measles,63.0
+Somalia,SOM,2024,1529.0,Measles,64.0
+South Sudan,SSD,2011,1256.0,Measles,62.0
+South Sudan,SSD,2012,1952.0,Measles,59.0
+South Sudan,SSD,2013,525.0,Measles,57.0
+South Sudan,SSD,2014,441.0,Measles,54.0
+South Sudan,SSD,2015,878.0,Measles,52.0
+South Sudan,SSD,2016,898.0,Measles,51.0
+South Sudan,SSD,2017,487.0,Measles,56.0
+South Sudan,SSD,2018,263.0,Measles,61.0
+South Sudan,SSD,2019,3401.0,Measles,65.0
+South Sudan,SSD,2020,1290.0,Measles,69.0
+South Sudan,SSD,2022,3608.0,Measles,72.0
+South Sudan,SSD,2023,7957.0,Measles,72.0
+South Sudan,SSD,2024,3114.0,Measles,72.0
+Sudan,SDN,1974,57507.0,Measles,
+Sudan,SDN,1975,58028.0,Measles,
+Sudan,SDN,1976,24542.0,Measles,
+Sudan,SDN,1977,35115.0,Measles,
+Sudan,SDN,1978,16426.0,Measles,
+Sudan,SDN,1979,44015.0,Measles,
+Sudan,SDN,1980,50168.0,Measles,
+Sudan,SDN,1981,64804.0,Measles,1.0
+Sudan,SDN,1982,68171.0,Measles,1.0
+Sudan,SDN,1983,2806.0,Measles,2.0
+Sudan,SDN,1984,2390.0,Measles,3.0
+Sudan,SDN,1985,67589.0,Measles,6.0
+Sudan,SDN,1986,27136.0,Measles,11.0
+Sudan,SDN,1987,1635.0,Measles,22.0
+Sudan,SDN,1988,7466.0,Measles,44.0
+Sudan,SDN,1989,15114.0,Measles,61.0
+Sudan,SDN,1990,14075.0,Measles,57.0
+Sudan,SDN,1991,30014.0,Measles,57.0
+Sudan,SDN,1992,17017.0,Measles,52.0
+Sudan,SDN,1993,683.0,Measles,49.0
+Sudan,SDN,1994,963.0,Measles,48.0
+Sudan,SDN,1995,841.0,Measles,51.0
+Sudan,SDN,1996,2559.0,Measles,59.0
+Sudan,SDN,1997,350.0,Measles,58.0
+Sudan,SDN,1998,550.0,Measles,49.0
+Sudan,SDN,1999,3347.0,Measles,51.0
+Sudan,SDN,2000,2875.0,Measles,58.0
+Sudan,SDN,2001,4362.0,Measles,58.0
+Sudan,SDN,2002,4529.0,Measles,58.0
+Sudan,SDN,2003,4381.0,Measles,65.0
+Sudan,SDN,2004,9562.0,Measles,67.0
+Sudan,SDN,2005,1374.0,Measles,69.0
+Sudan,SDN,2006,228.0,Measles,73.0
+Sudan,SDN,2007,327.0,Measles,79.0
+Sudan,SDN,2008,129.0,Measles,79.0
+Sudan,SDN,2009,68.0,Measles,82.0
+Sudan,SDN,2010,680.0,Measles,90.0
+Sudan,SDN,2011,5616.0,Measles,87.0
+Sudan,SDN,2012,8523.0,Measles,85.0
+Sudan,SDN,2013,2813.0,Measles,85.0
+Sudan,SDN,2014,676.0,Measles,86.0
+Sudan,SDN,2015,3585.0,Measles,87.0
+Sudan,SDN,2016,1767.0,Measles,87.0
+Sudan,SDN,2017,665.0,Measles,90.0
+Sudan,SDN,2018,4980.0,Measles,88.0
+Sudan,SDN,2019,3555.0,Measles,90.0
+Sudan,SDN,2020,401.0,Measles,86.0
+Sudan,SDN,2022,1575.0,Measles,80.0
+Sudan,SDN,2023,1377.0,Measles,51.0
+Sudan,SDN,2024,1337.0,Measles,46.0
+Tanzania,TZA,1976,33221.0,Measles,
+Tanzania,TZA,1977,67756.0,Measles,
+Tanzania,TZA,1978,83009.0,Measles,
+Tanzania,TZA,1979,66062.0,Measles,
+Tanzania,TZA,1980,63100.0,Measles,46.0
+Tanzania,TZA,1981,79764.0,Measles,51.0
+Tanzania,TZA,1982,102127.0,Measles,50.0
+Tanzania,TZA,1983,68804.0,Measles,60.0
+Tanzania,TZA,1984,39311.0,Measles,55.0
+Tanzania,TZA,1985,46032.0,Measles,66.0
+Tanzania,TZA,1986,38229.0,Measles,97.0
+Tanzania,TZA,1987,42109.0,Measles,78.0
+Tanzania,TZA,1988,14568.0,Measles,83.0
+Tanzania,TZA,1989,7033.0,Measles,79.0
+Tanzania,TZA,1990,14920.0,Measles,80.0
+Tanzania,TZA,1991,27188.0,Measles,79.0
+Tanzania,TZA,1992,13040.0,Measles,81.0
+Tanzania,TZA,1993,16471.0,Measles,77.0
+Tanzania,TZA,1994,3558.0,Measles,79.0
+Tanzania,TZA,1995,3160.0,Measles,78.0
+Tanzania,TZA,1996,10676.0,Measles,78.0
+Tanzania,TZA,1997,7287.0,Measles,73.0
+Tanzania,TZA,1998,10023.0,Measles,72.0
+Tanzania,TZA,1999,5887.0,Measles,72.0
+Tanzania,TZA,2000,14649.0,Measles,78.0
+Tanzania,TZA,2001,11847.0,Measles,86.0
+Tanzania,TZA,2002,5131.0,Measles,89.0
+Tanzania,TZA,2003,1673.0,Measles,97.0
+Tanzania,TZA,2004,1419.0,Measles,94.0
+Tanzania,TZA,2005,23.0,Measles,91.0
+Tanzania,TZA,2006,2362.0,Measles,93.0
+Tanzania,TZA,2007,7726.0,Measles,90.0
+Tanzania,TZA,2008,3413.0,Measles,88.0
+Tanzania,TZA,2009,1574.0,Measles,91.0
+Tanzania,TZA,2010,167.0,Measles,92.0
+Tanzania,TZA,2011,1622.0,Measles,93.0
+Tanzania,TZA,2012,1668.0,Measles,97.0
+Tanzania,TZA,2013,185.0,Measles,99.0
+Tanzania,TZA,2014,88.0,Measles,97.0
+Tanzania,TZA,2015,30.0,Measles,95.0
+Tanzania,TZA,2016,33.0,Measles,83.0
+Tanzania,TZA,2017,852.0,Measles,90.0
+Tanzania,TZA,2018,74.0,Measles,88.0
+Tanzania,TZA,2019,120.0,Measles,89.0
+Tanzania,TZA,2020,127.0,Measles,87.0
+Tanzania,TZA,2021,0.0,Measles,80.0
+Tanzania,TZA,2022,612.0,Measles,84.0
+Tanzania,TZA,2023,2887.0,Measles,84.0
+Tanzania,TZA,2024,992.0,Measles,84.0
+Uganda,UGA,1974,3643.0,Measles,
+Uganda,UGA,1975,6802.0,Measles,
+Uganda,UGA,1976,12828.0,Measles,
+Uganda,UGA,1977,26879.0,Measles,
+Uganda,UGA,1978,17877.0,Measles,
+Uganda,UGA,1979,2571.0,Measles,
+Uganda,UGA,1980,13415.0,Measles,
+Uganda,UGA,1981,18630.0,Measles,22.0
+Uganda,UGA,1982,11408.0,Measles,21.0
+Uganda,UGA,1983,43016.0,Measles,20.0
+Uganda,UGA,1984,20072.0,Measles,18.0
+Uganda,UGA,1988,1666.0,Measles,49.0
+Uganda,UGA,1989,660.0,Measles,51.0
+Uganda,UGA,1990,2637.0,Measles,52.0
+Uganda,UGA,1992,36511.0,Measles,56.0
+Uganda,UGA,1994,49815.0,Measles,59.0
+Uganda,UGA,1995,42659.0,Measles,57.0
+Uganda,UGA,1996,26198.0,Measles,55.0
+Uganda,UGA,1997,12562.0,Measles,54.0
+Uganda,UGA,1998,42528.0,Measles,50.0
+Uganda,UGA,1999,42737.0,Measles,55.0
+Uganda,UGA,2000,42554.0,Measles,57.0
+Uganda,UGA,2001,48543.0,Measles,59.0
+Uganda,UGA,2002,49871.0,Measles,62.0
+Uganda,UGA,2003,29429.0,Measles,64.0
+Uganda,UGA,2004,141.0,Measles,66.0
+Uganda,UGA,2005,22.0,Measles,68.0
+Uganda,UGA,2006,5736.0,Measles,75.0
+Uganda,UGA,2007,3776.0,Measles,75.0
+Uganda,UGA,2008,1319.0,Measles,70.0
+Uganda,UGA,2009,1601.0,Measles,77.0
+Uganda,UGA,2010,1313.0,Measles,73.0
+Uganda,UGA,2011,3312.0,Measles,75.0
+Uganda,UGA,2012,2027.0,Measles,80.0
+Uganda,UGA,2013,7878.0,Measles,83.0
+Uganda,UGA,2014,314.0,Measles,85.0
+Uganda,UGA,2015,478.0,Measles,79.0
+Uganda,UGA,2016,139.0,Measles,79.0
+Uganda,UGA,2017,1021.0,Measles,83.0
+Uganda,UGA,2018,2627.0,Measles,86.0
+Uganda,UGA,2019,920.0,Measles,87.0
+Uganda,UGA,2020,314.0,Measles,89.0
+Uganda,UGA,2021,606.0,Measles,90.0
+Uganda,UGA,2022,52.0,Measles,90.0
+Uganda,UGA,2023,399.0,Measles,90.0
+Uganda,UGA,2024,2180.0,Measles,90.0
+Burkina Faso,BFA,1970,1.0,Cholera,
+Burkina Faso,BFA,1971,1761.0,Cholera,
+Burkina Faso,BFA,1972,1.0,Cholera,
+Burkina Faso,BFA,1973,1118.0,Cholera,
+Burkina Faso,BFA,1974,632.0,Cholera,
+Burkina Faso,BFA,1975,3.0,Cholera,
+Burkina Faso,BFA,1978,1.0,Cholera,
+Burkina Faso,BFA,1984,2191.0,Cholera,
+Burkina Faso,BFA,1985,1149.0,Cholera,38.0
+Burkina Faso,BFA,1991,537.0,Cholera,69.0
+Burkina Faso,BFA,1995,1451.0,Cholera,43.0
+Burkina Faso,BFA,1996,425.0,Cholera,40.0
+Burkina Faso,BFA,1998,1036.0,Cholera,24.0
+Burkina Faso,BFA,1999,93.0,Cholera,36.0
+Burkina Faso,BFA,2000,617.0,Cholera,48.0
+Burkina Faso,BFA,2001,477.0,Cholera,63.0
+Burkina Faso,BFA,2003,1.0,Cholera,76.0
+Burkina Faso,BFA,2005,1050.0,Cholera,84.0
+Burkina Faso,BFA,2006,0.0,Cholera,88.0
+Burkina Faso,BFA,2008,0.0,Cholera,94.0
+Burkina Faso,BFA,2011,20.0,Cholera,89.0
+Burkina Faso,BFA,2012,143.0,Cholera,87.0
+Burkina Faso,BFA,2021,3.0,Cholera,88.0
+Burkina Faso,BFA,2022,4.0,Cholera,88.0
+Cameroon,CMR,1971,2167.0,Cholera,
+Cameroon,CMR,1972,362.0,Cholera,
+Cameroon,CMR,1973,206.0,Cholera,
+Cameroon,CMR,1974,83.0,Cholera,
+Cameroon,CMR,1975,3.0,Cholera,
+Cameroon,CMR,1976,135.0,Cholera,
+Cameroon,CMR,1978,3.0,Cholera,
+Cameroon,CMR,1979,16.0,Cholera,
+Cameroon,CMR,1980,229.0,Cholera,
+Cameroon,CMR,1981,243.0,Cholera,16.0
+Cameroon,CMR,1982,5.0,Cholera,21.0
+Cameroon,CMR,1983,55.0,Cholera,25.0
+Cameroon,CMR,1984,392.0,Cholera,31.0
+Cameroon,CMR,1985,1158.0,Cholera,39.0
+Cameroon,CMR,1986,165.0,Cholera,44.0
+Cameroon,CMR,1987,94.0,Cholera,44.0
+Cameroon,CMR,1988,4.0,Cholera,48.0
+Cameroon,CMR,1989,4.0,Cholera,56.0
+Cameroon,CMR,1990,16.0,Cholera,56.0
+Cameroon,CMR,1991,4026.0,Cholera,48.0
+Cameroon,CMR,1992,1268.0,Cholera,37.0
+Cameroon,CMR,1993,648.0,Cholera,32.0
+Cameroon,CMR,1994,527.0,Cholera,38.0
+Cameroon,CMR,1995,615.0,Cholera,46.0
+Cameroon,CMR,1996,5796.0,Cholera,39.0
+Cameroon,CMR,1997,1709.0,Cholera,43.0
+Cameroon,CMR,1998,4603.0,Cholera,47.0
+Cameroon,CMR,1999,1584.0,Cholera,46.0
+Cameroon,CMR,2000,123.0,Cholera,49.0
+Cameroon,CMR,2001,259.0,Cholera,51.0
+Cameroon,CMR,2002,66.0,Cholera,53.0
+Cameroon,CMR,2003,207.0,Cholera,61.0
+Cameroon,CMR,2004,8005.0,Cholera,64.0
+Cameroon,CMR,2005,2847.0,Cholera,68.0
+Cameroon,CMR,2006,922.0,Cholera,73.0
+Cameroon,CMR,2007,10.0,Cholera,74.0
+Cameroon,CMR,2008,0.0,Cholera,80.0
+Cameroon,CMR,2009,804.0,Cholera,74.0
+Cameroon,CMR,2010,10759.0,Cholera,79.0
+Cameroon,CMR,2011,22433.0,Cholera,76.0
+Cameroon,CMR,2012,363.0,Cholera,74.0
+Cameroon,CMR,2013,29.0,Cholera,71.0
+Cameroon,CMR,2014,3355.0,Cholera,71.0
+Cameroon,CMR,2015,124.0,Cholera,71.0
+Cameroon,CMR,2018,1052.0,Cholera,61.0
+Cameroon,CMR,2019,1840.0,Cholera,61.0
+Cameroon,CMR,2020,1890.0,Cholera,63.0
+Cameroon,CMR,2021,728.0,Cholera,65.0
+Cameroon,CMR,2022,14431.0,Cholera,68.0
+Cameroon,CMR,2023,6470.0,Cholera,71.0
+Cameroon,CMR,2024,199.0,Cholera,71.0
+Chad,TCD,1971,8230.0,Cholera,
+Chad,TCD,1972,9.0,Cholera,
+Chad,TCD,1974,338.0,Cholera,
+Chad,TCD,1991,13915.0,Cholera,28.0
+Chad,TCD,1994,1094.0,Cholera,24.0
+Chad,TCD,1996,7830.0,Cholera,22.0
+Chad,TCD,1997,8801.0,Cholera,30.0
+Chad,TCD,1998,4095.0,Cholera,20.0
+Chad,TCD,1999,217.0,Cholera,30.0
+Chad,TCD,2001,5244.0,Cholera,26.0
+Chad,TCD,2003,55.0,Cholera,23.0
+Chad,TCD,2004,5531.0,Cholera,16.0
+Chad,TCD,2005,90.0,Cholera,27.0
+Chad,TCD,2006,1668.0,Cholera,39.0
+Chad,TCD,2007,0.0,Cholera,31.0
+Chad,TCD,2009,67.0,Cholera,36.0
+Chad,TCD,2010,6395.0,Cholera,46.0
+Chad,TCD,2011,17267.0,Cholera,54.0
+Chad,TCD,2017,1266.0,Cholera,37.0
+Chad,TCD,2019,93.0,Cholera,40.0
+Cote d'Ivoire,CIV,1970,868.0,Cholera,
+Cote d'Ivoire,CIV,1971,668.0,Cholera,
+Cote d'Ivoire,CIV,1979,3.0,Cholera,
+Cote d'Ivoire,CIV,1982,34.0,Cholera,
+Cote d'Ivoire,CIV,1991,604.0,Cholera,57.0
+Cote d'Ivoire,CIV,1992,37.0,Cholera,54.0
+Cote d'Ivoire,CIV,1993,724.0,Cholera,52.0
+Cote d'Ivoire,CIV,1994,1108.0,Cholera,55.0
+Cote d'Ivoire,CIV,1995,4993.0,Cholera,57.0
+Cote d'Ivoire,CIV,1996,1345.0,Cholera,65.0
+Cote d'Ivoire,CIV,2001,5912.0,Cholera,71.0
+Cote d'Ivoire,CIV,2002,4188.0,Cholera,71.0
+Cote d'Ivoire,CIV,2003,1034.0,Cholera,70.0
+Cote d'Ivoire,CIV,2004,105.0,Cholera,78.0
+Cote d'Ivoire,CIV,2005,39.0,Cholera,84.0
+Cote d'Ivoire,CIV,2006,414.0,Cholera,73.0
+Cote d'Ivoire,CIV,2007,8.0,Cholera,67.0
+Cote d'Ivoire,CIV,2008,7.0,Cholera,63.0
+Cote d'Ivoire,CIV,2009,5.0,Cholera,67.0
+Cote d'Ivoire,CIV,2010,32.0,Cholera,64.0
+Cote d'Ivoire,CIV,2011,1261.0,Cholera,49.0
+Cote d'Ivoire,CIV,2012,424.0,Cholera,74.0
+Cote d'Ivoire,CIV,2013,56.0,Cholera,70.0
+Cote d'Ivoire,CIV,2014,235.0,Cholera,59.0
+Cote d'Ivoire,CIV,2015,199.0,Cholera,67.0
+Cote d'Ivoire,CIV,2021,12.0,Cholera,65.0
+Democratic Republic of Congo,COD,1978,3481.0,Cholera,
+Democratic Republic of Congo,COD,1979,5515.0,Cholera,
+Democratic Republic of Congo,COD,1980,1051.0,Cholera,18.0
+Democratic Republic of Congo,COD,1981,2379.0,Cholera,23.0
+Democratic Republic of Congo,COD,1982,10328.0,Cholera,25.0
+Democratic Republic of Congo,COD,1983,2977.0,Cholera,30.0
+Democratic Republic of Congo,COD,1984,162.0,Cholera,30.0
+Democratic Republic of Congo,COD,1985,740.0,Cholera,40.0
+Democratic Republic of Congo,COD,1986,1059.0,Cholera,39.0
+Democratic Republic of Congo,COD,1987,1150.0,Cholera,41.0
+Democratic Republic of Congo,COD,1988,295.0,Cholera,44.0
+Democratic Republic of Congo,COD,1989,99.0,Cholera,41.0
+Democratic Republic of Congo,COD,1990,468.0,Cholera,38.0
+Democratic Republic of Congo,COD,1991,4066.0,Cholera,17.0
+Democratic Republic of Congo,COD,1992,1949.0,Cholera,25.0
+Democratic Republic of Congo,COD,1993,986.0,Cholera,33.0
+Democratic Republic of Congo,COD,1994,58057.0,Cholera,39.0
+Democratic Republic of Congo,COD,1995,553.0,Cholera,27.0
+Democratic Republic of Congo,COD,1996,7886.0,Cholera,21.0
+Democratic Republic of Congo,COD,1997,2421.0,Cholera,20.0
+Democratic Republic of Congo,COD,1998,34899.0,Cholera,20.0
+Democratic Republic of Congo,COD,1999,12711.0,Cholera,15.0
+Democratic Republic of Congo,COD,2000,14995.0,Cholera,26.0
+Democratic Republic of Congo,COD,2001,5728.0,Cholera,34.0
+Democratic Republic of Congo,COD,2002,31658.0,Cholera,41.0
+Democratic Republic of Congo,COD,2003,27272.0,Cholera,48.0
+Democratic Republic of Congo,COD,2004,7665.0,Cholera,57.0
+Democratic Republic of Congo,COD,2005,13430.0,Cholera,61.0
+Democratic Republic of Congo,COD,2006,20642.0,Cholera,63.0
+Democratic Republic of Congo,COD,2007,28269.0,Cholera,64.0
+Democratic Republic of Congo,COD,2008,30150.0,Cholera,64.0
+Democratic Republic of Congo,COD,2009,22899.0,Cholera,65.0
+Democratic Republic of Congo,COD,2010,13884.0,Cholera,66.0
+Democratic Republic of Congo,COD,2011,21700.0,Cholera,66.0
+Democratic Republic of Congo,COD,2012,33661.0,Cholera,69.0
+Democratic Republic of Congo,COD,2013,26944.0,Cholera,68.0
+Democratic Republic of Congo,COD,2014,22203.0,Cholera,69.0
+Democratic Republic of Congo,COD,2015,19182.0,Cholera,65.0
+Democratic Republic of Congo,COD,2016,28093.0,Cholera,63.0
+Democratic Republic of Congo,COD,2017,56190.0,Cholera,65.0
+Democratic Republic of Congo,COD,2018,30768.0,Cholera,64.0
+Democratic Republic of Congo,COD,2019,30304.0,Cholera,65.0
+Democratic Republic of Congo,COD,2020,19789.0,Cholera,62.0
+Democratic Republic of Congo,COD,2021,12103.0,Cholera,55.0
+Democratic Republic of Congo,COD,2022,18961.0,Cholera,56.0
+Democratic Republic of Congo,COD,2023,52654.0,Cholera,52.0
+Democratic Republic of Congo,COD,2024,31857.0,Cholera,55.0
+Ethiopia,ETH,1970,850.0,Cholera,
+Ethiopia,ETH,1971,2187.0,Cholera,
+Ethiopia,ETH,1982,0.0,Cholera,7.0
+Ethiopia,ETH,2004,16.0,Cholera,35.0
+Ethiopia,ETH,2005,0.0,Cholera,40.0
+Ethiopia,ETH,2006,54070.0,Cholera,44.0
+Ethiopia,ETH,2007,24121.0,Cholera,49.0
+Ethiopia,ETH,2008,3862.0,Cholera,54.0
+Ethiopia,ETH,2009,31509.0,Cholera,59.0
+Ethiopia,ETH,2010,1682.0,Cholera,64.0
+Ethiopia,ETH,2019,2615.0,Cholera,56.0
+Ethiopia,ETH,2020,12226.0,Cholera,57.0
+Ethiopia,ETH,2021,674.0,Cholera,60.0
+Ethiopia,ETH,2022,846.0,Cholera,62.0
+Ethiopia,ETH,2023,30389.0,Cholera,68.0
+Ethiopia,ETH,2024,27152.0,Cholera,72.0
+Ghana,GHA,1970,2733.0,Cholera,
+Ghana,GHA,1971,13048.0,Cholera,
+Ghana,GHA,1972,625.0,Cholera,
+Ghana,GHA,1973,677.0,Cholera,
+Ghana,GHA,1974,483.0,Cholera,
+Ghana,GHA,1975,187.0,Cholera,
+Ghana,GHA,1976,102.0,Cholera,
+Ghana,GHA,1977,6565.0,Cholera,
+Ghana,GHA,1978,1853.0,Cholera,
+Ghana,GHA,1979,1783.0,Cholera,
+Ghana,GHA,1980,260.0,Cholera,16.0
+Ghana,GHA,1981,943.0,Cholera,23.0
+Ghana,GHA,1982,11051.0,Cholera,21.0
+Ghana,GHA,1983,14160.0,Cholera,16.0
+Ghana,GHA,1984,1015.0,Cholera,10.0
+Ghana,GHA,1985,60.0,Cholera,21.0
+Ghana,GHA,1990,2937.0,Cholera,61.0
+Ghana,GHA,1991,13172.0,Cholera,63.0
+Ghana,GHA,1992,228.0,Cholera,64.0
+Ghana,GHA,1993,1448.0,Cholera,66.0
+Ghana,GHA,1994,2267.0,Cholera,68.0
+Ghana,GHA,1995,4698.0,Cholera,70.0
+Ghana,GHA,1996,1665.0,Cholera,71.0
+Ghana,GHA,1997,379.0,Cholera,73.0
+Ghana,GHA,1998,3426.0,Cholera,78.0
+Ghana,GHA,1999,9432.0,Cholera,81.0
+Ghana,GHA,2000,3331.0,Cholera,90.0
+Ghana,GHA,2001,5487.0,Cholera,78.0
+Ghana,GHA,2002,3614.0,Cholera,78.0
+Ghana,GHA,2003,204.0,Cholera,80.0
+Ghana,GHA,2004,407.0,Cholera,83.0
+Ghana,GHA,2005,3166.0,Cholera,83.0
+Ghana,GHA,2006,3357.0,Cholera,85.0
+Ghana,GHA,2007,179.0,Cholera,95.0
+Ghana,GHA,2008,1223.0,Cholera,86.0
+Ghana,GHA,2009,1294.0,Cholera,93.0
+Ghana,GHA,2010,438.0,Cholera,93.0
+Ghana,GHA,2011,10628.0,Cholera,91.0
+Ghana,GHA,2012,9548.0,Cholera,89.0
+Ghana,GHA,2013,50.0,Cholera,89.0
+Ghana,GHA,2014,28944.0,Cholera,92.0
+Ghana,GHA,2015,692.0,Cholera,89.0
+Ghana,GHA,2016,175.0,Cholera,89.0
+Ghana,GHA,2019,1.0,Cholera,92.0
+Ghana,GHA,2021,2.0,Cholera,94.0
+Ghana,GHA,2024,423.0,Cholera,90.0
+Guinea,GIN,1970,2000.0,Cholera,
+Guinea,GIN,1986,286.0,Cholera,28.0
+Guinea,GIN,1994,31415.0,Cholera,58.0
+Guinea,GIN,1995,6506.0,Cholera,61.0
+Guinea,GIN,1996,287.0,Cholera,61.0
+Guinea,GIN,1998,881.0,Cholera,52.0
+Guinea,GIN,1999,599.0,Cholera,40.0
+Guinea,GIN,2000,519.0,Cholera,42.0
+Guinea,GIN,2001,392.0,Cholera,44.0
+Guinea,GIN,2002,61.0,Cholera,46.0
+Guinea,GIN,2003,6.0,Cholera,48.0
+Guinea,GIN,2004,1516.0,Cholera,50.0
+Guinea,GIN,2005,3821.0,Cholera,51.0
+Guinea,GIN,2006,3242.0,Cholera,51.0
+Guinea,GIN,2007,8546.0,Cholera,57.0
+Guinea,GIN,2008,513.0,Cholera,55.0
+Guinea,GIN,2009,42.0,Cholera,53.0
+Guinea,GIN,2011,3.0,Cholera,62.0
+Guinea,GIN,2012,7350.0,Cholera,58.0
+Guinea,GIN,2013,319.0,Cholera,55.0
+Guinea,GIN,2014,1.0,Cholera,51.0
+Kenya,KEN,1971,239.0,Cholera,
+Kenya,KEN,1972,51.0,Cholera,
+Kenya,KEN,1974,402.0,Cholera,
+Kenya,KEN,1975,1093.0,Cholera,
+Kenya,KEN,1976,1359.0,Cholera,
+Kenya,KEN,1977,21.0,Cholera,
+Kenya,KEN,1978,673.0,Cholera,
+Kenya,KEN,1979,1070.0,Cholera,
+Kenya,KEN,1980,2808.0,Cholera,
+Kenya,KEN,1981,2424.0,Cholera,
+Kenya,KEN,1982,3498.0,Cholera,
+Kenya,KEN,1983,1049.0,Cholera,
+Kenya,KEN,1984,14.0,Cholera,55.0
+Kenya,KEN,1985,1352.0,Cholera,63.0
+Kenya,KEN,1986,839.0,Cholera,65.0
+Kenya,KEN,1987,255.0,Cholera,69.0
+Kenya,KEN,1989,918.0,Cholera,75.0
+Kenya,KEN,1992,3388.0,Cholera,84.0
+Kenya,KEN,1994,880.0,Cholera,84.0
+Kenya,KEN,1995,1547.0,Cholera,83.0
+Kenya,KEN,1996,482.0,Cholera,81.0
+Kenya,KEN,1997,17200.0,Cholera,79.0
+Kenya,KEN,1998,22432.0,Cholera,78.0
+Kenya,KEN,1999,11039.0,Cholera,76.0
+Kenya,KEN,2000,1157.0,Cholera,78.0
+Kenya,KEN,2001,1001.0,Cholera,77.0
+Kenya,KEN,2002,291.0,Cholera,78.0
+Kenya,KEN,2004,870.0,Cholera,73.0
+Kenya,KEN,2005,816.0,Cholera,69.0
+Kenya,KEN,2006,870.0,Cholera,77.0
+Kenya,KEN,2007,1206.0,Cholera,80.0
+Kenya,KEN,2008,3091.0,Cholera,90.0
+Kenya,KEN,2009,11425.0,Cholera,88.0
+Kenya,KEN,2010,3188.0,Cholera,86.0
+Kenya,KEN,2011,74.0,Cholera,87.0
+Kenya,KEN,2014,35.0,Cholera,95.0
+Kenya,KEN,2015,13291.0,Cholera,96.0
+Kenya,KEN,2016,5866.0,Cholera,93.0
+Kenya,KEN,2017,4288.0,Cholera,84.0
+Kenya,KEN,2018,5719.0,Cholera,92.0
+Kenya,KEN,2019,5208.0,Cholera,92.0
+Kenya,KEN,2020,447.0,Cholera,89.0
+Kenya,KEN,2021,38.0,Cholera,90.0
+Kenya,KEN,2022,3525.0,Cholera,89.0
+Kenya,KEN,2023,8809.0,Cholera,91.0
+Kenya,KEN,2024,302.0,Cholera,88.0
+Liberia,LBR,1970,168.0,Cholera,
+Liberia,LBR,1971,606.0,Cholera,
+Liberia,LBR,1972,947.0,Cholera,
+Liberia,LBR,1973,1336.0,Cholera,
+Liberia,LBR,1974,512.0,Cholera,
+Liberia,LBR,1975,704.0,Cholera,
+Liberia,LBR,1976,646.0,Cholera,
+Liberia,LBR,1977,512.0,Cholera,
+Liberia,LBR,1978,422.0,Cholera,
+Liberia,LBR,1979,438.0,Cholera,
+Liberia,LBR,1980,2690.0,Cholera,
+Liberia,LBR,1981,1582.0,Cholera,
+Liberia,LBR,1982,670.0,Cholera,
+Liberia,LBR,1983,183.0,Cholera,
+Liberia,LBR,1984,492.0,Cholera,
+Liberia,LBR,1985,355.0,Cholera,
+Liberia,LBR,1986,59.0,Cholera,
+Liberia,LBR,1987,33.0,Cholera,
+Liberia,LBR,1988,68.0,Cholera,
+Liberia,LBR,1989,28.0,Cholera,
+Liberia,LBR,1991,132.0,Cholera,
+Liberia,LBR,1994,764.0,Cholera,
+Liberia,LBR,1995,3420.0,Cholera,
+Liberia,LBR,1996,8922.0,Cholera,
+Liberia,LBR,1997,91.0,Cholera,
+Liberia,LBR,1998,2123.0,Cholera,
+Liberia,LBR,1999,215.0,Cholera,69.0
+Liberia,LBR,2000,365.0,Cholera,63.0
+Liberia,LBR,2001,1062.0,Cholera,58.0
+Liberia,LBR,2002,1115.0,Cholera,52.0
+Liberia,LBR,2003,34740.0,Cholera,47.0
+Liberia,LBR,2004,2786.0,Cholera,41.0
+Liberia,LBR,2005,3823.0,Cholera,62.0
+Liberia,LBR,2006,4929.0,Cholera,63.0
+Liberia,LBR,2007,3063.0,Cholera,71.0
+Liberia,LBR,2008,1236.0,Cholera,76.0
+Liberia,LBR,2009,1070.0,Cholera,83.0
+Liberia,LBR,2010,1546.0,Cholera,65.0
+Liberia,LBR,2011,1146.0,Cholera,71.0
+Liberia,LBR,2012,219.0,Cholera,80.0
+Liberia,LBR,2013,92.0,Cholera,74.0
+Liberia,LBR,2014,44.0,Cholera,58.0
+Liberia,LBR,2018,2.0,Cholera,74.0
+Liberia,LBR,2021,167.0,Cholera,58.0
+Liberia,LBR,2022,367.0,Cholera,79.0
+Liberia,LBR,2023,925.0,Cholera,82.0
+Liberia,LBR,2024,340.0,Cholera,82.0
+Mali,MLI,1970,2665.0,Cholera,
+Mali,MLI,1971,4792.0,Cholera,
+Mali,MLI,1972,2.0,Cholera,
+Mali,MLI,1973,219.0,Cholera,
+Mali,MLI,1974,130.0,Cholera,
+Mali,MLI,1984,1795.0,Cholera,
+Mali,MLI,1985,3759.0,Cholera,19.0
+Mali,MLI,1986,1916.0,Cholera,27.0
+Mali,MLI,1987,352.0,Cholera,11.0
+Mali,MLI,1995,2191.0,Cholera,52.0
+Mali,MLI,1996,5723.0,Cholera,57.0
+Mali,MLI,1997,6.0,Cholera,56.0
+Mali,MLI,1999,6.0,Cholera,51.0
+Mali,MLI,2000,1885.0,Cholera,49.0
+Mali,MLI,2001,67.0,Cholera,54.0
+Mali,MLI,2002,18.0,Cholera,56.0
+Mali,MLI,2003,1455.0,Cholera,57.0
+Mali,MLI,2004,2839.0,Cholera,63.0
+Mali,MLI,2005,1178.0,Cholera,73.0
+Mali,MLI,2006,7.0,Cholera,68.0
+Mali,MLI,2008,153.0,Cholera,71.0
+Mali,MLI,2011,2220.0,Cholera,72.0
+Mali,MLI,2012,219.0,Cholera,67.0
+Mali,MLI,2013,23.0,Cholera,62.0
+Mali,MLI,2021,12.0,Cholera,72.0
+Niger,NER,1970,16.0,Cholera,
+Niger,NER,1971,9265.0,Cholera,
+Niger,NER,1972,51.0,Cholera,
+Niger,NER,1973,121.0,Cholera,
+Niger,NER,1974,286.0,Cholera,
+Niger,NER,1981,7.0,Cholera,19.0
+Niger,NER,1984,3788.0,Cholera,22.0
+Niger,NER,1989,166.0,Cholera,14.0
+Niger,NER,1991,3238.0,Cholera,28.0
+Niger,NER,1994,732.0,Cholera,19.0
+Niger,NER,1995,264.0,Cholera,40.0
+Niger,NER,1996,3957.0,Cholera,38.0
+Niger,NER,1997,259.0,Cholera,35.0
+Niger,NER,1999,1186.0,Cholera,35.0
+Niger,NER,2000,225.0,Cholera,37.0
+Niger,NER,2001,81.0,Cholera,39.0
+Niger,NER,2002,236.0,Cholera,41.0
+Niger,NER,2003,292.0,Cholera,43.0
+Niger,NER,2004,2178.0,Cholera,45.0
+Niger,NER,2005,553.0,Cholera,47.0
+Niger,NER,2006,1232.0,Cholera,53.0
+Niger,NER,2007,24.0,Cholera,60.0
+Niger,NER,2008,972.0,Cholera,66.0
+Niger,NER,2010,1154.0,Cholera,67.0
+Niger,NER,2011,2324.0,Cholera,69.0
+Niger,NER,2012,5284.0,Cholera,75.0
+Niger,NER,2013,585.0,Cholera,80.0
+Niger,NER,2014,2059.0,Cholera,80.0
+Niger,NER,2015,51.0,Cholera,85.0
+Niger,NER,2016,38.0,Cholera,76.0
+Niger,NER,2018,3900.0,Cholera,77.0
+Niger,NER,2021,5591.0,Cholera,80.0
+Niger,NER,2024,1066.0,Cholera,81.0
+Nigeria,NGA,1970,15.0,Cholera,
+Nigeria,NGA,1971,22931.0,Cholera,
+Nigeria,NGA,1972,1363.0,Cholera,
+Nigeria,NGA,1973,157.0,Cholera,
+Nigeria,NGA,1975,38.0,Cholera,
+Nigeria,NGA,1976,112.0,Cholera,
+Nigeria,NGA,1977,376.0,Cholera,
+Nigeria,NGA,1978,197.0,Cholera,
+Nigeria,NGA,1979,293.0,Cholera,
+Nigeria,NGA,1980,138.0,Cholera,
+Nigeria,NGA,1981,107.0,Cholera,
+Nigeria,NGA,1982,248.0,Cholera,
+Nigeria,NGA,1983,178.0,Cholera,
+Nigeria,NGA,1984,1667.0,Cholera,9.0
+Nigeria,NGA,1985,30.0,Cholera,17.0
+Nigeria,NGA,1986,91.0,Cholera,28.0
+Nigeria,NGA,1987,1290.0,Cholera,36.0
+Nigeria,NGA,1988,137.0,Cholera,46.0
+Nigeria,NGA,1989,1078.0,Cholera,59.0
+Nigeria,NGA,1991,59478.0,Cholera,57.0
+Nigeria,NGA,1992,8687.0,Cholera,43.0
+Nigeria,NGA,1993,4160.0,Cholera,40.0
+Nigeria,NGA,1994,2859.0,Cholera,41.0
+Nigeria,NGA,1995,1059.0,Cholera,44.0
+Nigeria,NGA,1996,12374.0,Cholera,38.0
+Nigeria,NGA,1997,1322.0,Cholera,38.0
+Nigeria,NGA,1998,3464.0,Cholera,38.0
+Nigeria,NGA,1999,26358.0,Cholera,35.0
+Nigeria,NGA,2000,2799.0,Cholera,33.0
+Nigeria,NGA,2001,2312.0,Cholera,32.0
+Nigeria,NGA,2002,5429.0,Cholera,30.0
+Nigeria,NGA,2003,1933.0,Cholera,34.0
+Nigeria,NGA,2004,3186.0,Cholera,37.0
+Nigeria,NGA,2005,4477.0,Cholera,41.0
+Nigeria,NGA,2006,2028.0,Cholera,44.0
+Nigeria,NGA,2007,1661.0,Cholera,41.0
+Nigeria,NGA,2008,5410.0,Cholera,53.0
+Nigeria,NGA,2009,13691.0,Cholera,64.0
+Nigeria,NGA,2010,44456.0,Cholera,56.0
+Nigeria,NGA,2011,23377.0,Cholera,53.0
+Nigeria,NGA,2012,597.0,Cholera,41.0
+Nigeria,NGA,2013,6600.0,Cholera,42.0
+Nigeria,NGA,2014,35996.0,Cholera,42.0
+Nigeria,NGA,2015,5290.0,Cholera,42.0
+Nigeria,NGA,2016,768.0,Cholera,48.0
+Nigeria,NGA,2017,12174.0,Cholera,54.0
+Nigeria,NGA,2018,45037.0,Cholera,56.0
+Nigeria,NGA,2019,2486.0,Cholera,58.0
+Nigeria,NGA,2020,596.0,Cholera,60.0
+Nigeria,NGA,2021,111062.0,Cholera,56.0
+Nigeria,NGA,2022,23839.0,Cholera,51.0
+Nigeria,NGA,2023,3457.0,Cholera,54.0
+Nigeria,NGA,2024,24841.0,Cholera,57.0
+Rwanda,RWA,1978,838.0,Cholera,
+Rwanda,RWA,1979,5.0,Cholera,
+Rwanda,RWA,1980,30.0,Cholera,
+Rwanda,RWA,1981,24.0,Cholera,42.0
+Rwanda,RWA,1982,201.0,Cholera,48.0
+Rwanda,RWA,1983,54.0,Cholera,53.0
+Rwanda,RWA,1984,161.0,Cholera,53.0
+Rwanda,RWA,1985,21.0,Cholera,52.0
+Rwanda,RWA,1986,226.0,Cholera,79.0
+Rwanda,RWA,1987,101.0,Cholera,78.0
+Rwanda,RWA,1988,70.0,Cholera,79.0
+Rwanda,RWA,1989,1.0,Cholera,83.0
+Rwanda,RWA,1991,679.0,Cholera,89.0
+Rwanda,RWA,1992,503.0,Cholera,82.0
+Rwanda,RWA,1993,568.0,Cholera,74.0
+Rwanda,RWA,1994,10.0,Cholera,25.0
+Rwanda,RWA,1995,3.0,Cholera,84.0
+Rwanda,RWA,1996,106.0,Cholera,76.0
+Rwanda,RWA,1997,274.0,Cholera,66.0
+Rwanda,RWA,1998,3220.0,Cholera,72.0
+Rwanda,RWA,1999,327.0,Cholera,78.0
+Rwanda,RWA,2000,1235.0,Cholera,74.0
+Rwanda,RWA,2001,157.0,Cholera,69.0
+Rwanda,RWA,2003,12.0,Cholera,90.0
+Rwanda,RWA,2004,586.0,Cholera,84.0
+Rwanda,RWA,2005,89.0,Cholera,89.0
+Rwanda,RWA,2006,405.0,Cholera,95.0
+Rwanda,RWA,2007,1453.0,Cholera,94.0
+Rwanda,RWA,2008,23.0,Cholera,92.0
+Rwanda,RWA,2009,67.0,Cholera,95.0
+Rwanda,RWA,2012,9.0,Cholera,97.0
+Rwanda,RWA,2016,355.0,Cholera,95.0
+Rwanda,RWA,2021,74.0,Cholera,87.0
+Rwanda,RWA,2022,24.0,Cholera,99.0
+Rwanda,RWA,2023,207.0,Cholera,96.0
+Senegal,SEN,1971,265.0,Cholera,
+Senegal,SEN,1972,379.0,Cholera,
+Senegal,SEN,1978,315.0,Cholera,
+Senegal,SEN,1979,103.0,Cholera,
+Senegal,SEN,1981,428.0,Cholera,
+Senegal,SEN,1984,728.0,Cholera,
+Senegal,SEN,1985,2988.0,Cholera,
+Senegal,SEN,1986,476.0,Cholera,71.0
+Senegal,SEN,1987,3150.0,Cholera,66.0
+Senegal,SEN,1988,390.0,Cholera,60.0
+Senegal,SEN,1995,3332.0,Cholera,80.0
+Senegal,SEN,1996,16107.0,Cholera,70.0
+Senegal,SEN,1997,371.0,Cholera,65.0
+Senegal,SEN,2004,1227.0,Cholera,57.0
+Senegal,SEN,2005,31719.0,Cholera,74.0
+Senegal,SEN,2006,365.0,Cholera,80.0
+Senegal,SEN,2007,3984.0,Cholera,84.0
+Senegal,SEN,2008,1283.0,Cholera,77.0
+Senegal,SEN,2009,4.0,Cholera,79.0
+Senegal,SEN,2010,3.0,Cholera,81.0
+Senegal,SEN,2011,5.0,Cholera,84.0
+Senegal,SEN,2012,1.0,Cholera,83.0
+Sierra Leone,SLE,1970,293.0,Cholera,
+Sierra Leone,SLE,1971,211.0,Cholera,
+Sierra Leone,SLE,1977,12.0,Cholera,
+Sierra Leone,SLE,1986,8957.0,Cholera,
+Sierra Leone,SLE,1987,557.0,Cholera,
+Sierra Leone,SLE,1994,9709.0,Cholera,
+Sierra Leone,SLE,1995,10285.0,Cholera,
+Sierra Leone,SLE,1998,2096.0,Cholera,
+Sierra Leone,SLE,1999,863.0,Cholera,62.0
+Sierra Leone,SLE,2004,513.0,Cholera,76.0
+Sierra Leone,SLE,2005,6.0,Cholera,71.0
+Sierra Leone,SLE,2006,2560.0,Cholera,65.0
+Sierra Leone,SLE,2007,2219.0,Cholera,60.0
+Sierra Leone,SLE,2008,62.0,Cholera,73.0
+Sierra Leone,SLE,2012,23124.0,Cholera,86.0
+Sierra Leone,SLE,2013,377.0,Cholera,85.0
+Somalia,SOM,1970,43.0,Cholera,
+Somalia,SOM,1971,89.0,Cholera,
+Somalia,SOM,1985,10199.0,Cholera,35.0
+Somalia,SOM,1986,15980.0,Cholera,25.0
+Somalia,SOM,1994,28334.0,Cholera,35.0
+Somalia,SOM,1995,9255.0,Cholera,34.0
+Somalia,SOM,1996,10274.0,Cholera,33.0
+Somalia,SOM,1997,6814.0,Cholera,25.0
+Somalia,SOM,1998,4417.0,Cholera,32.0
+Somalia,SOM,1999,17757.0,Cholera,38.0
+Somalia,SOM,2000,7496.0,Cholera,24.0
+Somalia,SOM,2001,2567.0,Cholera,20.0
+Somalia,SOM,2002,2775.0,Cholera,45.0
+Somalia,SOM,2003,11020.0,Cholera,40.0
+Somalia,SOM,2004,4490.0,Cholera,40.0
+Somalia,SOM,2007,41643.0,Cholera,35.0
+Somalia,SOM,2008,1281.0,Cholera,34.0
+Somalia,SOM,2009,208.0,Cholera,43.0
+Somalia,SOM,2010,3510.0,Cholera,46.0
+Somalia,SOM,2011,77636.0,Cholera,46.0
+Somalia,SOM,2012,22576.0,Cholera,46.0
+Somalia,SOM,2013,6864.0,Cholera,47.0
+Somalia,SOM,2014,2820.0,Cholera,48.0
+Somalia,SOM,2015,7536.0,Cholera,50.0
+Somalia,SOM,2016,15619.0,Cholera,51.0
+Somalia,SOM,2017,75414.0,Cholera,52.0
+Somalia,SOM,2018,6761.0,Cholera,53.0
+Somalia,SOM,2019,3100.0,Cholera,52.0
+Somalia,SOM,2020,6414.0,Cholera,52.0
+Somalia,SOM,2021,4342.0,Cholera,58.0
+Somalia,SOM,2022,15653.0,Cholera,69.0
+Somalia,SOM,2023,18304.0,Cholera,63.0
+Somalia,SOM,2024,21945.0,Cholera,64.0
+South Sudan,SSD,2014,6421.0,Cholera,54.0
+South Sudan,SSD,2015,1818.0,Cholera,52.0
+South Sudan,SSD,2016,4295.0,Cholera,51.0
+South Sudan,SSD,2017,16088.0,Cholera,56.0
+South Sudan,SSD,2022,424.0,Cholera,72.0
+South Sudan,SSD,2023,1471.0,Cholera,72.0
+South Sudan,SSD,2024,20132.0,Cholera,72.0
+Sudan,SDN,1979,845.0,Cholera,
+Sudan,SDN,1980,17.0,Cholera,
+Sudan,SDN,1985,4457.0,Cholera,6.0
+Sudan,SDN,1999,0.0,Cholera,51.0
+Sudan,SDN,2006,30662.0,Cholera,73.0
+Sudan,SDN,2007,13731.0,Cholera,79.0
+Sudan,SDN,2008,17241.0,Cholera,79.0
+Sudan,SDN,2009,13681.0,Cholera,82.0
+Sudan,SDN,2019,346.0,Cholera,90.0
+Sudan,SDN,2020,7.0,Cholera,86.0
+Sudan,SDN,2021,9.0,Cholera,81.0
+Sudan,SDN,2023,8895.0,Cholera,51.0
+Sudan,SDN,2024,53001.0,Cholera,46.0
+Tanzania,TZA,1974,10.0,Cholera,
+Tanzania,TZA,1977,297.0,Cholera,
+Tanzania,TZA,1978,6608.0,Cholera,
+Tanzania,TZA,1979,2559.0,Cholera,
+Tanzania,TZA,1980,5196.0,Cholera,46.0
+Tanzania,TZA,1981,4241.0,Cholera,51.0
+Tanzania,TZA,1982,4071.0,Cholera,50.0
+Tanzania,TZA,1983,1816.0,Cholera,60.0
+Tanzania,TZA,1984,2600.0,Cholera,55.0
+Tanzania,TZA,1985,1984.0,Cholera,66.0
+Tanzania,TZA,1986,1231.0,Cholera,97.0
+Tanzania,TZA,1987,1892.0,Cholera,78.0
+Tanzania,TZA,1988,5267.0,Cholera,83.0
+Tanzania,TZA,1989,2150.0,Cholera,79.0
+Tanzania,TZA,1990,2230.0,Cholera,80.0
+Tanzania,TZA,1991,5676.0,Cholera,79.0
+Tanzania,TZA,1992,18526.0,Cholera,81.0
+Tanzania,TZA,1993,792.0,Cholera,77.0
+Tanzania,TZA,1994,2240.0,Cholera,79.0
+Tanzania,TZA,1995,2957.0,Cholera,78.0
+Tanzania,TZA,1996,1464.0,Cholera,78.0
+Tanzania,TZA,1997,40249.0,Cholera,73.0
+Tanzania,TZA,1998,14488.0,Cholera,72.0
+Tanzania,TZA,1999,12266.0,Cholera,72.0
+Tanzania,TZA,2000,4637.0,Cholera,78.0
+Tanzania,TZA,2001,1300.0,Cholera,86.0
+Tanzania,TZA,2002,11920.0,Cholera,89.0
+Tanzania,TZA,2003,710.0,Cholera,97.0
+Tanzania,TZA,2004,10319.0,Cholera,94.0
+Tanzania,TZA,2005,2945.0,Cholera,91.0
+Tanzania,TZA,2006,14297.0,Cholera,93.0
+Tanzania,TZA,2007,1609.0,Cholera,90.0
+Tanzania,TZA,2008,2911.0,Cholera,88.0
+Tanzania,TZA,2009,7700.0,Cholera,91.0
+Tanzania,TZA,2010,4469.0,Cholera,92.0
+Tanzania,TZA,2011,942.0,Cholera,93.0
+Tanzania,TZA,2012,286.0,Cholera,97.0
+Tanzania,TZA,2013,270.0,Cholera,99.0
+Tanzania,TZA,2015,11563.0,Cholera,95.0
+Tanzania,TZA,2016,11360.0,Cholera,83.0
+Tanzania,TZA,2017,4895.0,Cholera,90.0
+Tanzania,TZA,2018,4777.0,Cholera,88.0
+Tanzania,TZA,2021,54.0,Cholera,80.0
+Tanzania,TZA,2023,1040.0,Cholera,84.0
+Tanzania,TZA,2024,12197.0,Cholera,84.0
+Uganda,UGA,1971,757.0,Cholera,
+Uganda,UGA,1975,3.0,Cholera,
+Uganda,UGA,1978,1120.0,Cholera,
+Uganda,UGA,1979,940.0,Cholera,
+Uganda,UGA,1980,1539.0,Cholera,
+Uganda,UGA,1982,190.0,Cholera,21.0
+Uganda,UGA,1987,140.0,Cholera,38.0
+Uganda,UGA,1991,279.0,Cholera,54.0
+Uganda,UGA,1992,5072.0,Cholera,56.0
+Uganda,UGA,1994,704.0,Cholera,59.0
+Uganda,UGA,1995,538.0,Cholera,57.0
+Uganda,UGA,1996,291.0,Cholera,55.0
+Uganda,UGA,1997,2610.0,Cholera,54.0
+Uganda,UGA,1998,49514.0,Cholera,50.0
+Uganda,UGA,1999,5179.0,Cholera,55.0
+Uganda,UGA,2000,2807.0,Cholera,57.0
+Uganda,UGA,2001,247.0,Cholera,59.0
+Uganda,UGA,2002,2274.0,Cholera,62.0
+Uganda,UGA,2003,4377.0,Cholera,64.0
+Uganda,UGA,2004,3380.0,Cholera,66.0
+Uganda,UGA,2005,4924.0,Cholera,68.0
+Uganda,UGA,2006,5194.0,Cholera,75.0
+Uganda,UGA,2007,276.0,Cholera,75.0
+Uganda,UGA,2008,3726.0,Cholera,70.0
+Uganda,UGA,2009,1095.0,Cholera,77.0
+Uganda,UGA,2010,2341.0,Cholera,73.0
+Uganda,UGA,2012,6326.0,Cholera,80.0
+Uganda,UGA,2013,748.0,Cholera,83.0
+Uganda,UGA,2014,309.0,Cholera,85.0
+Uganda,UGA,2015,1461.0,Cholera,79.0
+Uganda,UGA,2016,516.0,Cholera,79.0
+Uganda,UGA,2017,252.0,Cholera,83.0
+Uganda,UGA,2018,4440.0,Cholera,86.0
+Uganda,UGA,2019,358.0,Cholera,87.0
+Uganda,UGA,2020,1521.0,Cholera,89.0
+Uganda,UGA,2021,173.0,Cholera,90.0
+Uganda,UGA,2024,135.0,Cholera,90.0
