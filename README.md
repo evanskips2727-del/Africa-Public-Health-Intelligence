@@ -19,6 +19,7 @@ Transforming public-health data into structured surveillance insights through da
 </p>---
 
 Table of Contents
+Table of Contents
 
 - "Project Overview" (#project-overview)
 - "Live Application" (#live-application)
@@ -40,8 +41,6 @@ Table of Contents
 - "Skills Demonstrated" (#skills-demonstrated)
 - "Author" (#author)
 - "Disclaimer" (#disclaimer)
-
----
 
 Project Overview
 
