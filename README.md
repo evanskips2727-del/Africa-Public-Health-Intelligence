@@ -4,9 +4,7 @@
 
 **An explainable disease surveillance and risk-prioritization platform for Africa, built on open public data.**
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://public-health-early-warning.streamlit.app/)(https://github.com/evanskips2727-del/Africa-Public-Health-Intelligence/actions/workflows/ci.yml/badge.svg)](https://github.com/evanskips2727-del/Africa-Public-Health-Intelligence/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/) [![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://public-health-early-warning.streamlit.app/) [![CI](https://github.com/evanskips2727-del/Africa-Public-Health-Intelligence/actions/workflows/ci.yml/badge.svg)](https://github.com/evanskips2727-del/Africa-Public-Health-Intelligence/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/evanskips2727-del/Africa-Public-Health-Intelligence/blob/main/LICENSE)
 
 [**Live Dashboard**](https://public-health-early-warning.streamlit.app/) ·
 [**Technical Case Study**](docs/PORTFOLIO_CASE_STUDY.md) ·
